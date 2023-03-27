@@ -33,6 +33,8 @@ Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
 ## Zeitplan der Umsetzung
 Die Änderungen treten per 2024 in Kraft.
 
+---
+
 # Konzept Schiedsrichterwesen
 
 ## Abgrenzung
@@ -129,7 +131,7 @@ Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine Ausbildun
 1. Passiver Schiedsrichter
 2. Schiedsrichter unter Beobachtung von zweitem Schiedsrichter 
 
-Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
+> Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
 
 ##### Passiver Schiedsrichter
 Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
@@ -152,14 +154,14 @@ Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend
 3. Der Schiedsrichter-Coach kann durch die die Teams nicht abgelehnt werden. (TODO gute Idee?)
 4. Ein Schiedsrichter-Coach muss mindestens die Stufe National haben.
 
-Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
+> Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
 
 #### Workshop
 Um die praktische Ausbildung der Schiedsrichter weiter zu stärken, wird ein jährlicher Workshop angeboten. In den Workshops werden Spielsituationen nachgestellt und besprochen. Somit kann unter allen anwesenden Schiedsrichtern ein besseres Verständnis für die Regeln und deren Auslegung am Tisch geschaffen werden.
 
 Der exakte Inhalt des Workshops wird durch den Workshop-Leiter festgelegt und geplant.
 
-Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
+> Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
 
 ## Stellen im STF
 Es wird eine Stelle "Verantwortlicher Schiedsrichterwesen" geschaffen welche die folgenden Aufgaben umfasst:
@@ -193,12 +195,12 @@ Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen d
 #### Stufe Vereine
 Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
 
-Anmerkung: Der Betrag wie auch die Möglichkeit eins Abzugs basiert auf der Annahme, dass ein "dynamisches" Jahreslizenzwesen bei Vereinen eingeführt wird.
+> Anmerkung: Der Betrag wie auch die Möglichkeit eins Abzugs basiert auf der Annahme, dass ein "dynamisches" Jahreslizenzwesen bei Vereinen eingeführt wird.
 
 #### Stufe Spieler
 Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter erfüllen, erhalten 30.- vergünstigung auf die Jahreslizenz vom kommenden Jahr. Weiter wird der Betrg der pro Team bezahlt werden muss auf 10.- pro Team definiert. Somit wird jeder Schiedsrichtereinsatz mit 20.- CHF entlöhnt.
 
-Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
+> Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
 
 ### Verständnis für "Anti-Referee-Hate-Rules" schaffen
 Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
@@ -211,4 +213,4 @@ Weiter kennt Micromate die Problematik, dass man Wissen mit der Zeit wieder verg
 
 Durch diesen Mechanismus ist es nicht nötig eine Prüfung abzuhalten. Es kann definiert werden, dass sämtliche angehenden Schiedsrichter welche in einem gewissen Zeitraum über einer gewissen Schwelle waren, den benötigten Wissenstand aufweisen.
 
-Anmerkung: Der Autor von diesem Konzept ist Teilninhaber des Tools Micromate!
+> Anmerkung: Der Autor von diesem Konzept ist Teilninhaber des Tools Micromate!
