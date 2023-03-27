@@ -180,5 +180,8 @@ Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls un
 TBD
 
 ## Kosten Sichtbarkeit
-300.- 
+Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
+
+- 2 Steller für den Ausbildungstisch
+- Beschriftung Ausbildungstisch
 
