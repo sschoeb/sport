@@ -33,7 +33,7 @@ Ab dem Level International wird die Zertifizierung durch den ITSF vorgenommen.
 
 ## Ausbildungsweg
 
-Gemäss der im Kapitel "Einstufung und Zuständigkeit" aufgeführten Zuständigkeit, startet die Ausbildung eines Schiedsrichters in jedem Fall bei der STF. Nach einer Grundausbildung hat der Schiedsrichter die Möglichkeit einen Antrag zu stellen, zum "International*" befördert zu werde. Da der weitere Weg durch den ITSF bestimmt ist, wird in diesem Dokument nicht weiter auf die Ausbildung nach der Stufe "National" eingegangen. 
+Gemäss der im Kapitel "Einstufung und Zuständigkeit" aufgeführten Zuständigkeit, startet die Ausbildung eines Schiedsrichters in jedem Fall bei der STF. Nach einer Grundausbildung im STF hat der Schiedsrichter die Möglichkeit einen Antrag beim ITSF zu stellen, um zum "International*" befördert zu werde. Da der weitere Weg durch den ITSF bestimmt ist, wird in diesem Dokument nicht weiter auf die Ausbildung nach der Stufe "National" eingegangen. 
 
 ## Regelwerke
 Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF ausgebildet. Dies entspricht den folgenden Dokumenten:
@@ -77,6 +77,13 @@ Weiter ist der klassische Weg von "Einmal gelernt und dann die Prüfung abgelegt
 Um diesem Problem abhilfe zu schaffen wird die STF auf das Tool "Micromate" setzen. Dies gibt sämtlichen angehenden sowie bereits ausgebildeten Schiedsrichtern die Möglichkeit, ihren aktuellen Wissensstand zu prüfen und gleichzeitig Wissenslücken zu schliessen.
 
 Die Ausbildung an den Regeln ist für sämtliche angehende Schiedsrichter verpflichtend. 
+
+#### Funktion Micromate
+Micromate funktioniert als eine Art online Lern- und Prüfungstool. Dabei kann sich der angehende Schiedsrichter laufend den Fragen von Micromate stellen. Basierend auf den Antworten erkennt Micromate den Ausbildungsstand des Schiedsrichters und bestimmt ob das nötige Wissen vorhanden ist. 
+
+Weiter kennt Micromate die Problematik, dass man Wissen mit der Zeit wieder vergisst. Somit prüft Micromate laufend ob das entsprechende Wissen noch vorhanden ist. Beispiel: Hat ein Spieler im Januar 90% erreicht, dürfte er im Dezember bereits einiges von seinem Wissen eingebüsst haben, Micromate wird entsprechend einige bereits abgefragte Themen erneut bringen, um den Wissensstand zu überprüfen. 
+
+Durch diesen Mechanismus ist es nicht nötig eine Prüfung abzuhalten. Es kann definiert werden, dass sämtliche angehenden Schiedsrichter welche in einem gewissen Zeitraum über einer gewissen Schwelle waren, den benötigten Wissenstand aufweisen.
 
 ### Ausbildung an Turnieren
 Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine Ausbildung an Turnieren nötig. Die STF sieht dabei zwei Möglichkeiten:
