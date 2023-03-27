@@ -1,23 +1,57 @@
-# Swiss Tablesoccer Federation - Antrag Schiedsrichter Konzept
+# Swiss Tablesoccer Federation - Antrag / Konzept Schiedsrichterwesen
 
-# Abgrenzung
-In diesem Dokument wird nur das Konzept betreffend dem Schiedsrichterwesen in der Swiss Tablesoccer Federation definiert. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Antrag.
+# Antrag an die DV
 
-# Ausgangslage
+## Ausgangslage
 Aktuell gibt es in der Schweiz kein strukturiertes Schiedsrichterwesen. Daraus entsteht am Ende das Problem, dass an Turnieren nur wenige oder im schlechtesten Fall keine Schiedsrichter vorhanden sind. Neben diesem offensichtlichen Misstand welcher zu Turnierverzögerungen führen kann, ist durch eine fehlende Ausbildungsmöglichkeit auch der Wissenststand der Spieler betreffend den aktuellen Regeln häufig ungenügend.
 
-Zum aktuellen Zeitpunkt hat die STF 11 Schiedsrichter beim ITSF gemeldet. Da diese Liste auf keinerlei aktueller Grundlage besteht, werden sämtliche Schiedsrichter bis zur Stufe National zurückgesetzt. Dieses Schiedsrichter müssen somit die Ausbildung analog zu neuen Spielern ohne Erfahrung erneut durchlaufen. 
-
-# Ziele
-Es soll eine nachhaltige Grundlage geschaffen werden welche die folgenden Ziele abdeckt:
+## Antrag
+Mit dem unterbreiteten Konzept "Schiedsrichterwesen" wird die Grundlage für ein strukturiertes Schiedsrichterwesen geschaffen. Dabei werden die folgenden Ziele verfolgt:
 
 - Einfacher Zugang zur Schiedsrichtersausbildung
 - Schaffen von Anreizen damit sich Spieler zum Schiedsrichter ausbilden
 - Klären von Verantwortlichkeiten im Bereich des Schiedsrichterwesen
+- Qualitativ hochwertige Schiedsrichterausbildung
+- Minimaler zusätzlicher Ressourcenaufwand bei der STF
 
-# Schiedsrichterausbildung
+## Kosten
+Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls unterstützenden Massnahmen zur Sichtbarkeit an Turnieren an.
 
-## Einstufung und Zuständigkeit
+### Kosten Micromate
+1000 CHF / Jahr aufgeteilt in:
+300 CHF in Cash
+700 CHF als Sponsoring Swiss Tablesoccer Finals
+
+### Kosten Sichtbarkeit
+Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
+
+- 2 Steller für den Ausbildungstisch
+- Beschriftung Ausbildungstisch
+
+
+## Zeitplan der Umsetzung
+Die Änderungen treten per 2024 in Kraft.
+
+# Konzept Schiedsrichterwesen
+
+## Abgrenzung
+In diesem Dokument wird nur das Konzept betreffend dem Schiedsrichterwesen in der Swiss Tablesoccer Federation definiert. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Konzept.
+
+## Ziele
+Dieses Konzept versucht sich in sämtlichen Bereichen möglichst an den folgenden Zielen zu orientieren:
+
+- Einfacher Zugang zur Schiedsrichtersausbildung
+- Schaffen von Anreizen damit sich Spieler zum Schiedsrichter ausbilden
+- Klären von Verantwortlichkeiten im Bereich des Schiedsrichterwesen
+- Qualitativ hochwertige Schiedsrichterausbildung
+- Minimaler zusätzlicher Ressourcenaufwand bei der STF
+
+Es ist nicht möglich, das sämtliche Ideen in diesem Konzept allen diesen Punkten entsprechen (z.B. leidet die Qualität unter dem Ziel vom minimalen Aufwand). Es gilt hier einen möglichst guten Komporomiss zu finden.
+
+
+## Schiedsrichterausbildung
+
+### Einstufung und Zuständigkeit
 Gemäss ITSF wird jeder Schiedsrichter gemäss seinem aktuellen Level eingestuft. Dabei gibt es die folgenden Stufen:
 | Stufe           | Zuständigkeit |
 |-----------------|---------------|
@@ -29,13 +63,16 @@ Gemäss ITSF wird jeder Schiedsrichter gemäss seinem aktuellen Level eingestuft
 
 Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assitant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. 
 
-Ab dem Level International wird die Zertifizierung durch den ITSF vorgenommen. 
+Ab dem Level "International" wird die Zertifizierung sowie die weitere Ausbildung durch den ITSF vorgenommen. 
 
-## Ausbildungsweg
+### Ausbildungsweg
 
 Gemäss der im Kapitel "Einstufung und Zuständigkeit" aufgeführten Zuständigkeit, startet die Ausbildung eines Schiedsrichters in jedem Fall bei der STF. Nach einer Grundausbildung im STF hat der Schiedsrichter die Möglichkeit einen Antrag beim ITSF zu stellen, um zum "International*" befördert zu werde. Da der weitere Weg durch den ITSF bestimmt ist, wird in diesem Dokument nicht weiter auf die Ausbildung nach der Stufe "National" eingegangen. 
 
-## Regelwerke
+#### Anerkennung früherer Ausbildung
+Zum Zeitpunkt der Erstellung von diesem Konzept hat die STF elf Schiedsrichter beim ITSF gemeldet. Da diese Liste auf keinerlei aktueller Grundlage besteht, werden sämtliche Schiedsrichter welche die Stufe "National" oder tiefer haben zurückgesetzt. Dieses Schiedsrichter müssen somit die Ausbildung analog zu neuen Schiedsrichtern ohne Erfahrung durchlaufen. 
+
+### Regelwerke
 Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF ausgebildet. Dies entspricht den folgenden Dokumenten:
 
 1. [Standard Matchplay Rules](https://www.tablesoccer.org/rules/documents/GBR-2022%20ITSF%20Standard%20Matchplay%20Rules_def.pdf)
@@ -47,58 +84,53 @@ Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF a
 
 Für die Ausbildung im Rahmen der STF sind die Regelwerke 1-3 verpflichtend. Die Regelwerke 4-6, welche hauptsächlich zusätzliche Disziplinen abbilden, werden durch die STF als Ausbildung angeboten, sind jedoch für angehende Schiedsrichter optinal.
 
-# Umsetzung
+## Umsetzung
 Um die unter "Ziele" beschriebenen Ziele zu erreichen, müssen Prozesse wie auch Ausbildungsmöglichkeiten geschaffen werden. Zusätzlich wird eine Ressource benötigt, welche sich laufend um die administrativen belangen (z.B. Meldung der Scheidsrichter beim ITSF) wie auch regeltechnischen Aufgaben (z.B. Regelanpassungen durch ITSF) kümmert.
 
-Neben der initialen Ausbildung muss dafür gesorgt werden, dass die Schiedsrichter auch Jahre nach der initialen Einstufung noch über das Wissen verfügen um korrekt eingestuft zu werden.
+Weiter muss neben der initialen Ausbildung dafür gesorgt werden, dass die Schiedsrichter auch Jahre nach der initialen Einstufung noch über das Wissen verfügen um korrekt eingestuft zu werden.
 
-Die Ausbildung zum Schiedsrichter besteht aus zwei grossen Bereichen:
+Die in diesem Konzept angedachten Ausbildugnsmöglichkeiten, decken den initialen Effort wie auch die fortlaufende Ausbildung der angehenden Schiedsrichter ab.
 
-1. Exaktes wissen über die Regeln und deren Auslegung
+Allgemein besteht die Ausbildung zum Schiedsrichter aus zwei grossen Bereichen:
+
+1. Exaktes Wissen über die Regeln und deren Auslegung
 2. Praktische Erfahrung am Tisch
 
-Die STF stellt sämtliche Möglichkeiten und Mittel bereit um die angehenden Schiedsrichtern in den Regeln sowie deren Auslegung auszubilden. In diesem Bereich wird durch die angehenden Schiedsrichter auch eine entsprechende Prüfung abgelegt.
+Die STF stellt sämtliche Möglichkeiten und Mittel bereit um die angehenden Schiedsrichtern in den Regeln sowie deren Auslegung auszubilden. In diesem Bereich wird sich der Schiedsrichter einer Art Wissensüberprüfung stellen müssen.
 
 Für die praktische Erfahrung sind die Schiedsrichter indes selbst verantwortlich. Die STF stellt entsprechende Möglichkeiten zur Verfügung (siehe Ausbildung an Turnieren), verpflichtet die angehenden Schiedsrichter jedoch nicht, diese auch wahrzunehmen.
 
-## Ablauf der Ausbildung
-1. Spieler meldet sich beim STF, dass er sich gerne zum Schiedsrichter ausbilden lassen möchte
-2. Spieler erhält einen Account im Online Ausbildungstool und kann sofort mit dem lernen der Regelgrundlagen beginnen
+### Ablauf der Ausbildung
+1. Spieler meldet sich beim STF, dass er sich zum Schiedsrichter ausbilden lassen möchte
+2. Spieler erhält einen Account im online Ausbildungstool und kann sofort mit dem lernen der Regelgrundlagen beginnen
 3. Sobald der angehende Schiedsrichter ein minimales Level(60%) erreicht hat, wird er zum Assistant-Referee befördert und somit auch zur "Ausbildung an Turnieren" zugelassen.
-4.  Sobald der angehende Schiedsrichter das Level von 90% erreicht hat, wird er automatisch zum National Schiedsrichter befördert.
+4.  Sobald der angehende Schiedsrichter das Level von 90% erreicht hat, wird er automatisch zum "National" Schiedsrichter befördert.
 
-## Prüfung
-Es wird keine Prüfung geben, welche durch die angehenden Schiedsrichter abgelegt werden muss. Erreicht ein angehender Schiedsrichter in Micromate das nötige Level, wird er automatisch zum entsprechenden Schiedsrichter befördert. 
+### Prüfung
+Der angehende Schiedsrichter muss im Tool das nötige Wissen aufzeigen. Eine effektive Prüfung ist dabei nicht vorgesehen. Hat ein Schiedsrichter das nötige Level erreicht wird er automatisch als Assistant- resp. National-Schiedsrichter anerkannt.
 
-Schiedsrichter welche in den letzten 6 Monaten zum Stichtag (31.12) sich nie über dem entsprechenden Level befunden haben, werden entsprechend degradiert. (Siehe dazu auch "Funktion Micromate")
+Eine Einstufung geschieht dabei jeweils am 30.6 sowie am 31.12. Schiedsrichter welche in den vorangegangenen sechs Monaten min. einmal über dem benötigten Grenzwert waren, werden dabei automatisch eingestuft (oder behalten die entsprechende Stufe). Schiedsrichter welche in diesem Zeitraum das nötige Level nicht erreicht haben, verlieren ihren Status.
 
-## Ausbildungsmöglichkeiten
+### Ausbildungsmöglichkeiten
 
-### Online
-Die Regelkunde ist ein trokenes Thema. Aktuell umfassen die Regeln 53 Seiten, inkl. den Anti-Doping Regeln gar 122. Das Studium wie auch die Überprüfung durch die STF ist mühsam. 
+#### Online
+Die Regelkunde ist ein trokenes Thema. Aktuell umfassen die ITSF-Regeln 53 Seiten, inkl. den Anti-Doping Regeln gar 122. Das Studium wie auch die Überprüfung durch die STF ist mühsam. 
 
 Weiter ist der klassische Weg von "Einmal gelernt und dann die Prüfung abgelegt" keine Nachhaltige Lösung um die Qualität der Schiedsrichter aufrecht zu halten. 
 
 Um diesem Problem abhilfe zu schaffen wird die STF auf das Tool "Micromate" setzen. Dies gibt sämtlichen angehenden sowie bereits ausgebildeten Schiedsrichtern die Möglichkeit, ihren aktuellen Wissensstand zu prüfen und gleichzeitig Wissenslücken zu schliessen.
 
-Die Ausbildung an den Regeln ist für sämtliche angehende Schiedsrichter verpflichtend. 
+Die Ausbildung an den Regeln ist für sämtliche Schiedsrichter (angehend wie auch bestehend) verpflichtend. 
 
-#### Funktion Micromate
-Micromate funktioniert als eine Art online Lern- und Prüfungstool. Dabei kann sich der angehende Schiedsrichter laufend den Fragen von Micromate stellen. Basierend auf den Antworten erkennt Micromate den Ausbildungsstand des Schiedsrichters und bestimmt ob das nötige Wissen vorhanden ist. 
-
-Weiter kennt Micromate die Problematik, dass man Wissen mit der Zeit wieder vergisst. Somit prüft Micromate laufend ob das entsprechende Wissen noch vorhanden ist. Beispiel: Hat ein Spieler im Januar 90% erreicht, dürfte er im Dezember bereits einiges von seinem Wissen eingebüsst haben, Micromate wird entsprechend einige bereits abgefragte Themen erneut bringen, um den Wissensstand zu überprüfen. 
-
-Durch diesen Mechanismus ist es nicht nötig eine Prüfung abzuhalten. Es kann definiert werden, dass sämtliche angehenden Schiedsrichter welche in einem gewissen Zeitraum über einer gewissen Schwelle waren, den benötigten Wissenstand aufweisen.
-
-### Ausbildung an Turnieren
-Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine Ausbildung an Turnieren nötig. Die STF sieht dabei zwei Möglichkeiten:
+#### Ausbildung an Turnieren
+Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine Ausbildung an Turnieren nötig. Es gibt dabei die folgenden beiden Möglichkeiten:
 
 1. Passiver Schiedsrichter
 2. Schiedsrichter unter Beobachtung von zweitem Schiedsrichter 
 
-Aufgrund der Tatsache, dass aktuell praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
+Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
 
-#### Passiver Schiedsrichter
+##### Passiver Schiedsrichter
 Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
 
 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
@@ -109,7 +141,7 @@ Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er
 
 Um die Hürde für passive Schiedsrichter zu senden, wird an STS der Tisch 3 zum offizillen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit Sichtbarkeit für die Ausbildung geschaffen). Weiter haben hier die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu pfeifen.
 
-#### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
+##### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
 Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglickeit die Entscheidung des angehenden Schiedsrichters zu überstimmen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
 
 Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
@@ -121,23 +153,23 @@ Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend
 
 Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
 
-### Workshop
+#### Workshop
 Um die praktische Ausbildung der Schiedsrichter weiter zu stärken, wird ein jährlicher Workshop angeboten. In den Workshops werden Spielsituationen nachgestellt und besprochen. Somit kann unter allen anwesenden Schiedsrichtern ein besseres Verständnis für die Regeln und deren Auslegung am Tisch geschaffen werden.
 
 Der exakte Inhalt des Workshops wird durch den Workshop-Leiter festgelegt und geplant.
 
 Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
 
-# Positionen im STF
-Im Bereich "Ruling" wird eine neue Stelle geschaffen, welche die folgenden Aufgaben übernimmt:
+## Stellen im STF
+Es wird eine Stelle "Verantwortlicher Schiedsrichterwesen" geschaffen welche die folgenden Aufgaben umfasst:
 
 1. Melden der aktuellen Schiedsrichter gemäss dem Tool Micromate an ITSF
-2. Anpassung der Regeln bei Anpassungen durch den ITSF
+2. Anpassung der Ausbildungsunterlagen bei Anpassungen der Regeln durch den ITSF
 3. Austausch mit dem ITSF zu Schiedsrichter-Themen (z.B. gewünschte Regelanpassungen durch die STF)
 4. Planung von alfälligen Workshops
-5. Förderung des Austauschs zwischen den Schiedsrichtern
+5. Förderung des Austauschs zwischen den Schiedsrichtern (z.B. eine WhatsApp Gruppe)
 
-# Förderung der Ausbildung 
+## Förderung der Ausbildung 
 Die Ausbildung der Schiedsrichter soll durch die folgenden Mechanismen gefördert werden:
 
 1. Erhöhung der Sichtbarkeit
@@ -145,43 +177,37 @@ Die Ausbildung der Schiedsrichter soll durch die folgenden Mechanismen geförder
 3. Finanzielle Anreize
 4. Verständnis für "Anti-Referee-Hate-Rules" schaffen
 
-## Erhöhung der Sichtbarkeit
+### Erhöhung der Sichtbarkeit
 Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwesen umgesetzt/überwacht:
 
 1. Ausbildungstisch an STS Turnieren (inkl. Beschriftung + Fahne oder Ähnlichem)
 2. Eigene Seite auf swisstablesoccer.ch mit sämltichen Informationen zum Schiedsrichterwesen 
 3. Kommunikation durch das Social Media Team
 
-## Einfacher Zugang zur Ausbildung
+### Einfacher Zugang zur Ausbildung
 Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar. Auch Spieler die sich nicht aktiv zum Schiedsrichter ausbilden möchten, können das Online-Tool verwenden um die Regelkenntnisse zu vertiefen.
 
-## Finanzielle Anreize
+### Finanzielle Anreize
 
-### Stufe Vereine
+#### Stufe Vereine
 Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
 
 Anmerkung: Der Betrag wie auch die Möglichkeit eins Abzugs basiert auf der Annahme, dass ein "dynamisches" Jahreslizenzwesen bei Vereinen eingeführt wird.
 
-### Stufe Spieler
+#### Stufe Spieler
 Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter erfüllen, erhalten 30.- vergünstigung auf die Jahreslizenz vom kommenden Jahr. Weiter wird der Betrg der pro Team bezahlt werden muss auf 10.- pro Team definiert. Somit wird jeder Schiedsrichtereinsatz mit 20.- CHF entlöhnt.
 
 Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
 
-## Verständnis für "Anti-Referee-Hate-Rules" schaffen
+### Verständnis für "Anti-Referee-Hate-Rules" schaffen
 Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
 
-# Zeitplan der Umsetzung
-Die Änderungen treten per 2024 in Kraft.
 
-# Kosten
-Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls unterstützenden Massnahmen zur Sichtbarkeit an Turnieren an.
+## Das Learning-Tool: Micromate
+Micromate funktioniert als eine Art online Lern- und Prüfungstool. Dabei kann sich der angehende Schiedsrichter laufend den Fragen von Micromate stellen. Basierend auf den Antworten erkennt Micromate den Ausbildungsstand des Schiedsrichters und bestimmt ob das nötige Wissen vorhanden ist. 
 
-## Kosten Micromate
-TBD
+Weiter kennt Micromate die Problematik, dass man Wissen mit der Zeit wieder vergisst. Somit prüft Micromate laufend ob das entsprechende Wissen noch vorhanden ist. Beispiel: Hat ein Spieler im Januar 90% erreicht, dürfte er im Dezember bereits einiges von seinem Wissen eingebüsst haben, Micromate wird entsprechend einige bereits abgefragte Themen erneut bringen, um den Wissensstand zu überprüfen. 
 
-## Kosten Sichtbarkeit
-Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
+Durch diesen Mechanismus ist es nicht nötig eine Prüfung abzuhalten. Es kann definiert werden, dass sämtliche angehenden Schiedsrichter welche in einem gewissen Zeitraum über einer gewissen Schwelle waren, den benötigten Wissenstand aufweisen.
 
-- 2 Steller für den Ausbildungstisch
-- Beschriftung Ausbildungstisch
-
+Anmerkung: Der Autor von diesem Konzept ist Teilninhaber des Tools Micromate!
