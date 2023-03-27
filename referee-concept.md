@@ -73,7 +73,11 @@ Ab dem Level "International" wird die Zertifizierung sowie die weitere Ausbildun
 Gemäss der im Kapitel "Einstufung und Zuständigkeit" aufgeführten Zuständigkeit, startet die Ausbildung eines Schiedsrichters in jedem Fall bei der STF. Nach einer Grundausbildung im STF hat der Schiedsrichter die Möglichkeit einen Antrag beim ITSF zu stellen, um zum "International*" befördert zu werde. Da der weitere Weg durch den ITSF bestimmt ist, wird in diesem Dokument nicht weiter auf die Ausbildung nach der Stufe "National" eingegangen. 
 
 #### Anerkennung früherer Ausbildung
-Zum Zeitpunkt der Erstellung von diesem Konzept hat die STF elf Schiedsrichter beim ITSF gemeldet. Da diese Liste auf keinerlei aktueller Grundlage besteht, werden sämtliche Schiedsrichter welche die Stufe "National" oder tiefer haben zurückgesetzt. Dieses Schiedsrichter müssen somit die Ausbildung analog zu neuen Schiedsrichtern ohne Erfahrung durchlaufen. 
+Zum Zeitpunkt der Erstellung von diesem Konzept hat die STF elf Schiedsrichter beim ITSF gemeldet. Diese Schiedsrichter müssen ebenfalls die nötigen Werte im online Ausbildungstool erreichen um auch in Zukunft von der STF als Schiedsrichter gemeldet zu werden. 
+
+Dies ist wichtig, weil das Online-Tool nicht nur die Regeln vermittelt, sondern gleichzeitig auch deren Auslegung abgestimmt wird. Durch das absolvieren der Ausbildung durch bereits etablierte Schiedsrichter können so etwaige Unstimmigkeiten in den Unterlagen frühzeitig Ausgemerzt werden.
+
+Bestehende Schiedsrichter behalten ihren Rang für eine Schonfrist von einem Jahr ab Einführung. Sollte in dieser Zeit der Leistungsausweis im Tool nicht erbracht werden, verliert der Schiedsrichter seinen Status.
 
 ### Regelwerke
 Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF ausgebildet. Dies entspricht den folgenden Dokumenten:
