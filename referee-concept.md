@@ -126,16 +126,19 @@ Im Bereich "Ruling" wird eine neue Stelle geschaffen, welche die folgenden Aufga
 5. Förderung des Austauschs zwischen den Schiedsrichtern
 
 # Förderung der Ausbildung 
+Die Ausbildung der Schiedsrichter soll durch zwei Mechanismen gefördert werden:
 
-# Förderung STF Ausbildung
-- Idee 1: Vereine bezahlen 100 wenn kein Mitglieder Referee ist
-- Idee 2: Spieler bezahlt mehr resp. weniger für die Lizenz
+1. Stufe Vereine
+2. Stufe Spieler
 
-# Förderung an STF Turnieren
-- Referee-Ausbildungs-Tisch
-- Silent-Referee-Konzept
-- Kosten Referee pro Match
-- 
+## Stufe Vereine
+Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
+
+## Stufe Spieler
+Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter erfüllen, erhalten 30.- vergünstigung auf die Jahreslizenz vom kommenden Jahr. Weiter wird der Betrg der pro Team bezahlt werden muss auf 10.- pro Team definiert. Somit wird jeder Schiedsrichtereinsatz mit 20.- CHF entlöhnt.
+
+Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
+
 
 
 
