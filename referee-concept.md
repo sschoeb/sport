@@ -1,7 +1,7 @@
-# Swiss Tablesoccer Federation - Referee concept
+# Swiss Tablesoccer Federation - Antrag Schiedsrichter Konzept
 
 # Abgrenzung
-In diesem Dokument wird nur das Konzept betreffend dem Schiedsrichterwesen in der Swiss Tablesoccer Federation definiert. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Konzept.
+In diesem Dokument wird nur das Konzept betreffend dem Schiedsrichterwesen in der Swiss Tablesoccer Federation definiert. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Antrag.
 
 # Ausgangslage
 Aktuell gibt es in der Schweiz kein strukturiertes Schiedsrichterwesen. Daraus entsteht am Ende das Problem, dass an Turnieren nur wenige oder im schlechtesten Fall keine Schiedsrichter vorhanden sind. Neben diesem offensichtlichen Misstand welcher zu Turnierverzögerungen führen kann, ist durch eine fehlende Ausbildungsmöglichkeit auch der Wissenststand der Spieler betreffend den aktuellen Regeln häufig ungenügend.
@@ -139,6 +139,6 @@ Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter
 
 Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
 
-
-
+# Zeitplan
+Die Änderungen treten per 2024 in Kraft.
 
