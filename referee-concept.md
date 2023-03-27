@@ -90,7 +90,7 @@ Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF a
 
 Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 und 2 verpflichtend. Die Regelwerke 3-5, welche hauptsächlich zusätzliche Disziplinen abbilden, werden durch die STF als Ausbildung angeboten, sind jedoch für angehende Schiedsrichter optinal.
 
-Anti Doping Rules?!?
+TODO Anti Doping Rules?!?  
 6. [Anti Doping Rules](https://www.tablesoccer.org/rules/documents/ITSF%202021_Anti-Doping%20Rules_signed.pdf)
 
 ## Umsetzung
