@@ -84,12 +84,14 @@ Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF a
 
 1. [Standard Matchplay Rules](https://www.tablesoccer.org/rules/documents/GBR-2022%20ITSF%20Standard%20Matchplay%20Rules_def.pdf)
 2. [Legacy Rules 2016](https://www.tablesoccer.org/rules/documents/2016_Rulebook.pdf)
-3. [Anti Doping Rules](https://www.tablesoccer.org/rules/documents/ITSF%202021_Anti-Doping%20Rules_signed.pdf)
-4. [Classic Rules](http://www.tablesoccer.org/rules/documents/2015_Speedball_Rules_and_Classic.pdf)
-5. [2 Leg Rules](http://www.tablesoccer.org/rules/documents/2018%20ITSF%20Rule%20Book%202P%20English.pdf)
-6. [Rollerball Rules](https://www.tablesoccer.org/rules/documents/ITSF%202018%20Rollerball%20Rules.pdf)
+3. [Classic Rules](http://www.tablesoccer.org/rules/documents/2015_Speedball_Rules_and_Classic.pdf)
+4. [2 Leg Rules](http://www.tablesoccer.org/rules/documents/2018%20ITSF%20Rule%20Book%202P%20English.pdf)
+5. [Rollerball Rules](https://www.tablesoccer.org/rules/documents/ITSF%202018%20Rollerball%20Rules.pdf)
 
-Für die Ausbildung im Rahmen der STF sind die Regelwerke 1-3 verpflichtend. Die Regelwerke 4-6, welche hauptsächlich zusätzliche Disziplinen abbilden, werden durch die STF als Ausbildung angeboten, sind jedoch für angehende Schiedsrichter optinal.
+Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 und 2 verpflichtend. Die Regelwerke 3-5, welche hauptsächlich zusätzliche Disziplinen abbilden, werden durch die STF als Ausbildung angeboten, sind jedoch für angehende Schiedsrichter optinal.
+
+Anti Doping Rules?!?
+6. [Anti Doping Rules](https://www.tablesoccer.org/rules/documents/ITSF%202021_Anti-Doping%20Rules_signed.pdf)
 
 ## Umsetzung
 Um die unter "Ziele" beschriebenen Ziele zu erreichen, müssen Prozesse wie auch Ausbildungsmöglichkeiten geschaffen werden. Zusätzlich wird eine Ressource benötigt, welche sich laufend um die administrativen belangen (z.B. Meldung der Scheidsrichter beim ITSF) wie auch regeltechnischen Aufgaben (z.B. Regelanpassungen durch ITSF) kümmert.
