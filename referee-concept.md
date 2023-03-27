@@ -153,7 +153,7 @@ Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwese
 3. Kommunikation durch das Social Media Team
 
 ## Einfacher Zugang zur Ausbildung
-Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar.
+Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar. Auch Spieler die sich nicht aktiv zum Schiedsrichter ausbilden möchten, können das Online-Tool verwenden um die Regelkenntnisse zu vertiefen.
 
 ## Finanzielle Anreize
 
