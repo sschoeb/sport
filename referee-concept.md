@@ -67,6 +67,11 @@ Für die praktische Erfahrung sind die Schiedsrichter indes selbst verantwortlic
 3. Sobald der angehende Schiedsrichter ein minimales Level(60%) erreicht hat, wird er zum Assistant-Referee befördert und somit auch zur "Ausbildung an Turnieren" zugelassen.
 4.  Sobald der angehende Schiedsrichter das Level von 90% erreicht hat, wird er automatisch zum National Schiedsrichter befördert.
 
+## Prüfung
+Es wird keine Prüfung geben, welche durch die angehenden Schiedsrichter abgelegt werden muss. Erreicht ein angehender Schiedsrichter in Micromate das nötige Level, wird er automatisch zum entsprechenden Schiedsrichter befördert. 
+
+Schiedsrichter welche in den letzten 6 Monaten zum Stichtag (31.12) sich nie über dem entsprechenden Level befunden haben, werden entsprechend degradiert. (Siehe dazu auch "Funktion Micromate")
+
 ## Ausbildungsmöglichkeiten
 
 ### Online
@@ -133,21 +138,37 @@ Im Bereich "Ruling" wird eine neue Stelle geschaffen, welche die folgenden Aufga
 5. Förderung des Austauschs zwischen den Schiedsrichtern
 
 # Förderung der Ausbildung 
-Die Ausbildung der Schiedsrichter soll durch zwei Mechanismen gefördert werden:
+Die Ausbildung der Schiedsrichter soll durch die folgenden Mechanismen gefördert werden:
 
-1. Stufe Vereine
-2. Stufe Spieler
+1. Erhöhung der Sichtbarkeit
+2. Einfacher Zugang zur Ausbildung
+3. Finanzielle Anreize
+4. Verständnis für "Anti-Referee-Hate-Rules" schaffen
 
-## Stufe Vereine
+## Erhöhung der Sichtbarkeit
+Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwesen umgesetzt/überwacht:
+
+1. Ausbildungstisch an STS Turnieren (inkl. Beschriftung + Fahne oder Ähnlichem)
+2. Eigene Seite auf swisstablesoccer.ch mit sämltichen Informationen zum Schiedsrichterwesen 
+3. Kommunikation durch das Social Media Team
+
+## Einfacher Zugang zur Ausbildung
+Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar.
+
+## Finanzielle Anreize
+### Stufe Vereine
 Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
 
 Anmerkung: Der Betrag wie auch die Möglichkeit eins Abzugs basiert auf der Annahme, dass ein "dynamisches" Jahreslizenzwesen bei Vereinen eingeführt wird.
 
-## Stufe Spieler
+### Stufe Spieler
 Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter erfüllen, erhalten 30.- vergünstigung auf die Jahreslizenz vom kommenden Jahr. Weiter wird der Betrg der pro Team bezahlt werden muss auf 10.- pro Team definiert. Somit wird jeder Schiedsrichtereinsatz mit 20.- CHF entlöhnt.
 
 Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
 
-# Zeitplan
+### Verständnis für "Anti-Referee-Hate-Rules" schaffen
+Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
+
+# Zeitplan der Umsetzung
 Die Änderungen treten per 2024 in Kraft.
 
