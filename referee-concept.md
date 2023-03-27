@@ -167,7 +167,7 @@ Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter
 
 Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
 
-### Verständnis für "Anti-Referee-Hate-Rules" schaffen
+## Verständnis für "Anti-Referee-Hate-Rules" schaffen
 Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
 
 # Zeitplan der Umsetzung
