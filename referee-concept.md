@@ -173,3 +173,12 @@ Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grun
 # Zeitplan der Umsetzung
 Die Änderungen treten per 2024 in Kraft.
 
+# Kosten
+Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls unterstützenden Massnahmen zur Sichtbarkeit an Turnieren an.
+
+## Kosten Micromate
+TBD
+
+## Kosten Sichtbarkeit
+300.- 
+
