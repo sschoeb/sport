@@ -92,6 +92,10 @@ Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er
 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu bitten.
 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
+4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
+5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
+
+Um die Hürde für passive Schiedsrichter zu senden, wird an STS der Tisch 3 zum offizillen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit Sichtbarkeit für die Ausbildung geschaffen). Weiter haben hier die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu pfeifen.
 
 #### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
 Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglickeit die Entscheidung des angehenden Schiedsrichters zu überstimmen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
@@ -112,15 +116,16 @@ Der exakte Inhalt des Workshops wird durch den Workshop-Leiter festgelegt und ge
 
 Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
 
-# Positionen
-- Head Referee
- - Verantwortung Meldung gegenüber ITSF
- - Anpassung Online-Ausbildung bei Regeländerungen durch ITSF
- - Meldung an STF Vorstand über aktuellen Ausbildungs-Stand der Referees pro Verein
+# Positionen im STF
+Im Bereich "Ruling" wird eine neue Stelle geschaffen, welche die folgenden Aufgaben übernimmt:
 
-# Ausbildung durch STF
-- Online Ausbildung (must)
-- Vor-Ort-Kurse an definierten STS-Turniere, z.B. 2 pro Jahr (optional)
+1. Melden der aktuellen Schiedsrichter gemäss dem Tool Micromate an ITSF
+2. Anpassung der Regeln bei Anpassungen durch den ITSF
+3. Austausch mit dem ITSF zu Schiedsrichter-Themen (z.B. gewünschte Regelanpassungen durch die STF)
+4. Planung von alfälligen Workshops
+5. Förderung des Austauschs zwischen den Schiedsrichtern
+
+# Förderung der Ausbildung 
 
 # Förderung STF Ausbildung
 - Idee 1: Vereine bezahlen 100 wenn kein Mitglieder Referee ist
