@@ -19,8 +19,9 @@ Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls un
 
 ### Kosten Micromate
 1000 CHF / Jahr aufgeteilt in:
-300 CHF in Cash
-700 CHF als Sponsoring Swiss Tablesoccer Finals
+
+- 300 CHF in Cash
+- 700 CHF als Sponsoring Swiss Tablesoccer Finals
 
 ### Kosten Sichtbarkeit
 Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
