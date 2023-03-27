@@ -156,6 +156,7 @@ Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwese
 Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar.
 
 ## Finanzielle Anreize
+
 ### Stufe Vereine
 Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
 
