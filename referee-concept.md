@@ -141,6 +141,8 @@ Die Ausbildung der Schiedsrichter soll durch zwei Mechanismen gefördert werden:
 ## Stufe Vereine
 Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
 
+Anmerkung: Der Betrag wie auch die Möglichkeit eins Abzugs basiert auf der Annahme, dass ein "dynamisches" Jahreslizenzwesen bei Vereinen eingeführt wird.
+
 ## Stufe Spieler
 Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter erfüllen, erhalten 30.- vergünstigung auf die Jahreslizenz vom kommenden Jahr. Weiter wird der Betrg der pro Team bezahlt werden muss auf 10.- pro Team definiert. Somit wird jeder Schiedsrichtereinsatz mit 20.- CHF entlöhnt.
 
