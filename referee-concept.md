@@ -127,15 +127,15 @@ Die Regelkunde ist ein trokenes Thema. Aktuell umfassen die ITSF-Regeln 53 Seite
 
 Weiter ist der klassische Weg von "Einmal gelernt und dann die Prüfung abgelegt" keine Nachhaltige Lösung um die Qualität der Schiedsrichter aufrecht zu halten. 
 
-Um diesem Problem abhilfe zu schaffen wird die STF auf das Tool "Micromate" setzen. Dies gibt sämtlichen angehenden sowie bereits ausgebildeten Schiedsrichtern die Möglichkeit, ihren aktuellen Wissensstand zu prüfen und gleichzeitig Wissenslücken zu schliessen.
+Um diesem Problem Abhilfe zu schaffen, wird die STF auf das Tool "Micromate" setzen. Dies gibt sämtlichen angehenden, sowie bereits ausgebildeten Schiedsrichtern die Möglichkeit, ihren aktuellen Wissensstand zu prüfen und gleichzeitig Wissenslücken zu schliessen.
 
 Die Ausbildung an den Regeln ist für sämtliche Schiedsrichter (angehend wie auch bestehend) verpflichtend. 
 
 #### Ausbildung an Turnieren
-Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine Ausbildung an Turnieren nötig. Es gibt dabei die folgenden beiden Möglichkeiten:
+Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine praktische Ausbildung an Turnieren nötig. Es gibt dabei die folgenden beiden Möglichkeiten:
 
 1. Passiver Schiedsrichter
-2. Schiedsrichter unter Beobachtung von zweitem Schiedsrichter 
+2. Schiedsrichter unter Beobachtung von Schiedsrichter Coach 
 
 > Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
 
@@ -143,15 +143,15 @@ Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine Ausbildun
 Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
 
 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
-2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu bitten.
+2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
 4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
 5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
 
-Um die Hürde für passive Schiedsrichter zu senden, wird an STS der Tisch 3 zum offizillen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit Sichtbarkeit für die Ausbildung geschaffen). Weiter haben hier die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu pfeifen.
+Um die Hürde für passive Schiedsrichter zu senken, wird an STS-Turnieren der Tisch 3 zum offizillen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit mehr Sichtbarkeit für das Thema Schiedsrichtersausbildung geschaffen). Weiter haben auf diesem Tisch die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu begleiten.
 
 ##### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
-Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglickeit die Entscheidung des angehenden Schiedsrichters zu überstimmen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
+Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglickeit die Entscheidung des angehenden Schiedsrichters zu überstimmen wie auch ins Spiel einzugreifen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
 
 Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
 
