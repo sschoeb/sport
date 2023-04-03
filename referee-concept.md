@@ -18,10 +18,10 @@ Mit dem unterbreiteten Konzept "Schiedsrichterwesen" wird die Grundlage für ein
 Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls unterstützenden Massnahmen zur Sichtbarkeit an Turnieren an.
 
 ### Kosten Micromate
-1000 CHF / Jahr aufgeteilt in:
+4800 CHF / Jahr aufgeteilt in:
 
-- 300 CHF in Cash
-- 700 CHF als Sponsoring Swiss Tablesoccer Finals
+- 600 CHF in Cash
+- 4200 CHF als Sponsoring (Official Ruling Partner / Swiss Tablesoccer Finals)
 
 ### Kosten Sichtbarkeit
 Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
@@ -61,8 +61,9 @@ Gemäss ITSF wird jeder Schiedsrichter gemäss seinem aktuellen Level eingestuft
 | Assistant       | STF           |
 | Regional        | STF           |
 | National        | STF           |
-| International*  | ITSF          |
-| International** | ITSF          |
+| Continental  | ITSF          |
+| International | ITSF          |
+| World | ITSF          |
 
 Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assitant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. 
 
@@ -84,14 +85,12 @@ Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF a
 
 1. [Standard Matchplay Rules](https://www.tablesoccer.org/rules/documents/GBR-2022%20ITSF%20Standard%20Matchplay%20Rules_def.pdf)
 2. [Legacy Rules 2016](https://www.tablesoccer.org/rules/documents/2016_Rulebook.pdf)
-3. [Classic Rules](http://www.tablesoccer.org/rules/documents/2015_Speedball_Rules_and_Classic.pdf)
-4. [2 Leg Rules](http://www.tablesoccer.org/rules/documents/2018%20ITSF%20Rule%20Book%202P%20English.pdf)
-5. [Rollerball Rules](https://www.tablesoccer.org/rules/documents/ITSF%202018%20Rollerball%20Rules.pdf)
+3. [Referee Code](https://www.tablesoccer.org/itsf/documents/GBR%20-%20ITSF%20REFEREE%20CODE.pdf)
+4. [Classic Rules](http://www.tablesoccer.org/rules/documents/2015_Speedball_Rules_and_Classic.pdf)
+5. [2 Leg Rules](http://www.tablesoccer.org/rules/documents/2018%20ITSF%20Rule%20Book%202P%20English.pdf)
+6. [Rollerball Rules](https://www.tablesoccer.org/rules/documents/ITSF%202018%20Rollerball%20Rules.pdf)
 
-Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 und 2 verpflichtend. Die Regelwerke 3-5, welche hauptsächlich zusätzliche Disziplinen abbilden, werden durch die STF als Ausbildung angeboten, sind jedoch für angehende Schiedsrichter optinal.
-
-TODO Anti Doping Rules?!?  
-6. [Anti Doping Rules](https://www.tablesoccer.org/rules/documents/ITSF%202021_Anti-Doping%20Rules_signed.pdf)
+Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 bis 3 verpflichtend. Die Regelwerke 4-6, welche zusätzliche Disziplinen abbilden, sind aktuell nicht Teil der Ausbildung.
 
 ## Umsetzung
 Um die unter "Ziele" beschriebenen Ziele zu erreichen, müssen Prozesse wie auch Ausbildungsmöglichkeiten geschaffen werden. Zusätzlich wird eine Ressource benötigt, welche sich laufend um die administrativen belangen (z.B. Meldung der Scheidsrichter beim ITSF) wie auch regeltechnischen Aufgaben (z.B. Regelanpassungen durch ITSF) kümmert.
@@ -140,27 +139,27 @@ Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine praktisch
 > Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
 
 ##### Passiver Schiedsrichter
-Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
+Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Das Schiedsrichter-Reglement wird somit mit einem Kapitel "Passiver Schiedsrichter" erweitert, in welchem die folgenden Regeln definiert werden:
 
-1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
-2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
-3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
-4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
-5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
+> 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
+> 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
+> 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
+> 4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
+> 5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
 
 Um die Hürde für passive Schiedsrichter zu senken, wird an STS-Turnieren der Tisch 3 zum offizillen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit mehr Sichtbarkeit für das Thema Schiedsrichtersausbildung geschaffen). Weiter haben auf diesem Tisch die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu begleiten.
 
 ##### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
 Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglickeit die Entscheidung des angehenden Schiedsrichters zu überstimmen wie auch ins Spiel einzugreifen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
 
-Die Regeln der STF (TODO Ausschreibung? Wo kommt das hin?!?) werden entsprechend um die folgenden Artikel ergänzt:
-
-1. Sollte ein Schiedsrichter Coach zusätzlich zum Schiedsrichter am Tisch stehen, kann dieser die Entscheidungen des Schiedsrichters überstimmen.
-2. Entscheidungen des Coaches können werde von einem Team noch vom aktiven Schiedsrichter überstimmt werden und sind endgültig.
-3. Der Schiedsrichter-Coach kann durch die die Teams nicht abgelehnt werden. (TODO gute Idee?)
-4. Ein Schiedsrichter-Coach muss mindestens die Stufe National haben.
-
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
+
+Das Schiedsrichter-Reglement wird mit einem Kapitel "Schiedsrichter-Coach" erweitert, in welchem die folgenden Regeln definiert werden:
+
+> 1. Sollte ein Schiedsrichter Coach zusätzlich zum Schiedsrichter am Tisch stehen, kann dieser die Entscheidungen des Schiedsrichters überstimmen.
+> 2. Entscheidungen des Coaches können weder von einem Team noch vom aktiven Schiedsrichter überstimmt werden und sind endgültig.
+> 3. Der Schiedsrichter-Coach kann durch die die Teams nicht abgelehnt werden. 
+> 4. Ein Schiedsrichter-Coach muss mindestens die Stufe National haben.
 
 #### Workshop
 Um die praktische Ausbildung der Schiedsrichter weiter zu stärken, wird ein jährlicher Workshop angeboten. In den Workshops werden Spielsituationen nachgestellt und besprochen. Somit kann unter allen anwesenden Schiedsrichtern ein besseres Verständnis für die Regeln und deren Auslegung am Tisch geschaffen werden.
@@ -170,13 +169,18 @@ Der exakte Inhalt des Workshops wird durch den Workshop-Leiter festgelegt und ge
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
 
 ## Stellen im STF
-Es wird eine Stelle "Verantwortlicher Schiedsrichterwesen" geschaffen welche die folgenden Aufgaben umfasst:
+Es wird eine Schiedsrichter-Kommission geschaffen, welche durch den "Verantwortlichen Schiedsrichterwesen" geleitet wird. Die Aufgaben der Komission umfassen:
 
 1. Melden der aktuellen Schiedsrichter gemäss dem Tool Micromate an ITSF
 2. Anpassung der Ausbildungsunterlagen bei Anpassungen der Regeln durch den ITSF
 3. Austausch mit dem ITSF zu Schiedsrichter-Themen (z.B. gewünschte Regelanpassungen durch die STF)
 4. Planung von alfälligen Workshops
 5. Förderung des Austauschs zwischen den Schiedsrichtern (z.B. eine WhatsApp Gruppe)
+
+Die Schiedsrichter-Komission hat die folgenden Befugnisse:
+
+- Anpassung des Schiedsrichter-Reglements der STF
+
 
 ## Förderung der Ausbildung 
 Die Ausbildung der Schiedsrichter soll durch die folgenden Mechanismen gefördert werden:
