@@ -1,4 +1,4 @@
-# Antrag an die DV
+# Antrag an die DV der Swiss Tablesoccer Federation
 
 ## Ausgangslage
 Aktuell gibt es in der Schweiz kein strukturiertes Schiedsrichterwesen. Daraus entsteht am Ende das Problem, dass an Turnieren nur wenige oder im schlechtesten Fall keine Schiedsrichter vorhanden sind. Neben diesem offensichtlichen Misstand welcher zu Turnierverzögerungen führen kann, ist durch eine fehlende Ausbildungsmöglichkeit auch der Wissenststand der Spieler betreffend den aktuellen Regeln häufig ungenügend.
@@ -11,6 +11,8 @@ Mit dem unterbreiteten Konzept "Schiedsrichterwesen" wird die Grundlage für ein
 - Klären von Verantwortlichkeiten im Bereich des Schiedsrichterwesen
 - Qualitativ hochwertige Schiedsrichterausbildung
 - Minimaler zusätzlicher Ressourcenaufwand bei der STF
+
+Ich beantrage das Konzept wie auch das dazugehörige "Reglement Schiedsrichterwesen" durch die DV anzunehmen.
 
 ## Kosten
 Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls unterstützenden Massnahmen zur Sichtbarkeit an Turnieren an.
