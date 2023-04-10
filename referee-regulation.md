@@ -40,11 +40,11 @@ Um den Anforderungen der Schiedsrichterausbildung gerecht zu werden, definiert d
 #### Passiver Schiedsrichter
 Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Das Schiedsrichter-Reglement wird somit mit einem Kapitel "Passiver Schiedsrichter" erweitert, in welchem die folgenden Regeln definiert werden:
 
-> 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
-> 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
-> 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
-> 4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
-> 5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
+1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
+2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
+3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
+4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
+5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
 
 
 #### Schiedsrichter-Coach
