@@ -164,16 +164,9 @@ Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwese
 Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar. Auch Spieler die sich nicht aktiv zum Schiedsrichter ausbilden möchten, können das Online-Tool verwenden um die Regelkenntnisse zu vertiefen.
 
 ### Finanzielle Anreize
+Die STF hat die Möglichkeit, die Schiedsrichterausbildung für Spieler wie auch deren Vereine anhand von Anpassungen der Jahreslizenzen für Vereine resp. Spieler attraktiver zu machen. 
 
-#### Stufe Vereine
-Vereine welche zum Stichtag 31.12. min. einen National Schiedsrichter ausweisen, erhalten 50.- Abzug auf die nächste Jahreslizenz des Vereins.
-
-> Anmerkung: Der Betrag wie auch die Möglichkeit eins Abzugs basiert auf der Annahme, dass ein "dynamisches" Jahreslizenzwesen bei Vereinen eingeführt wird.
-
-#### Stufe Spieler
-Spieler welche zum Stichtag 31.12. die Anforderungen zum National Schiedsrichter erfüllen, erhalten 30.- vergünstigung auf die Jahreslizenz vom kommenden Jahr. Weiter wird der Betrg der pro Team bezahlt werden muss auf 10.- pro Team definiert. Somit wird jeder Schiedsrichtereinsatz mit 20.- CHF entlöhnt.
-
-> Anmerkung: Der Betrag von 30.- ist zu diskutieren und basiert darauf, dass die Jahreslizenz auf 100.- pro Person erhöht wird.
+Um dies umsetzen zu können, sind Anpassungen am Lizenzwesen nötig, was den Rahmen von diesem Konzept sprengen würde.
 
 ### Verständnis für "Anti-Referee-Hate-Rules" schaffen
 Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
