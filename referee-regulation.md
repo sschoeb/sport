@@ -4,13 +4,15 @@
 Im Reglement Schiedsrichterwesen werden sämtliche Themen rund um das Schiedsrichterwesen der STF geregelt. 
 
 ### Abgrenzung
-
+In diesem Dokument regelt das Schiedsrichterwesen der Swiss Tablesoccer Federation. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Konzept.
 
 ## Schiedsrichterwesen
 Die STF ist gemäss der Definition vom ITSF für die Ausbildung der Schiedsrichter bis und mit der Stufe National verantwortlich. 
 
 ### Einbettung
-Grundsätzlich haben sich die Schiedsrichter an den vom ITSF definiertne (Referee Code)[https://www.tablesoccer.org/itsf/documents/GBR%20-%20ITSF%20REFEREE%20CODE.pdf] zu halten. Die darin enthaltenen Regeln/Definitionen können jedoch von diesem Dokument überschrieben werden. Im Zweifelsfall gilt die Regelung in diesem Dokument.
+Grundsätzlich haben sich die Schiedsrichter an den vom ITSF definierten [Referee Code](https://www.tablesoccer.org/itsf/documents/GBR%20-%20ITSF%20REFEREE%20CODE.pdf) zu halten. Die darin enthaltenen Regeln/Definitionen können jedoch von diesem Dokument überschrieben werden. Im Zweifelsfall gilt die Regelung in diesem Dokument.
+
+Weiter gilt für die Ausbildung der Schiedsrichter das Konzept "Ausbildung Schiedsrichter".
 
 ### Bezahlung von Schiedsrichtern
 Der Schiedsrichter wird in jedem Fall mit folgendem Entgeld entlöhnt: 5.- CHF pro Spieler pro Match
