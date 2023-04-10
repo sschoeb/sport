@@ -38,7 +38,7 @@ Sollten beide Varianten nicht möglich sein, muss das Spiel durch die beiden Tea
 Um den Anforderungen der Schiedsrichterausbildung gerecht zu werden, definiert die STF zwei zusätzliche Schiedsrichtertypen:
 
 #### Passiver Schiedsrichter
-Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Das Schiedsrichter-Reglement wird somit mit einem Kapitel "Passiver Schiedsrichter" erweitert, in welchem die folgenden Regeln definiert werden:
+Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. 
 
 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
