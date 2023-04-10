@@ -102,7 +102,7 @@ Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine praktisch
 > Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
 
 ##### Passiver Schiedsrichter
-Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Das Schiedsrichter-Reglement wird somit mit einem Kapitel "Passiver Schiedsrichter" erweitert, in welchem die folgenden Regeln definiert werden:
+Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Das Schiedsrichter-Reglement wird somit mit einem Schiedsrichter-Typ "Passiver Schiedsrichter" erweitert, in welchem die folgenden Regeln definiert werden:
 
 > 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
 > 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
@@ -117,7 +117,7 @@ Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schie
 
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
 
-Das Schiedsrichter-Reglement wird mit einem Kapitel "Schiedsrichter-Coach" erweitert, in welchem die folgenden Regeln definiert werden:
+Das Schiedsrichter-Reglement wird mit einem Schiedsrichter-Typ "Schiedsrichter-Coach" erweitert, in welchem die folgenden Regeln definiert werden:
 
 > 1. Sollte ein Schiedsrichter Coach zusätzlich zum Schiedsrichter am Tisch stehen, kann dieser die Entscheidungen des Schiedsrichters überstimmen.
 > 2. Entscheidungen des Coaches können weder von einem Team noch vom aktiven Schiedsrichter überstimmt werden und sind endgültig.
