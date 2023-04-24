@@ -179,4 +179,3 @@ Weiter kennt Micromate die Problematik, dass man Wissen mit der Zeit wieder verg
 
 Durch diesen Mechanismus ist es nicht nötig eine Prüfung abzuhalten. Es kann definiert werden, dass sämtliche angehenden Schiedsrichter welche in einem gewissen Zeitraum über einer gewissen Schwelle waren, den benötigten Wissenstand aufweisen.
 
-> Anmerkung: Der Autor von diesem Konzept ist Teilninhaber des Tools Micromate!
