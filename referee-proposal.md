@@ -12,7 +12,11 @@ Mit dem unterbreiteten Konzept "Schiedsrichterwesen" wird die Grundlage für ein
 - Qualitativ hochwertige Schiedsrichterausbildung
 - Minimaler zusätzlicher Ressourcenaufwand bei der STF
 
-Ich beantrage das Konzept wie auch das dazugehörige "Reglement Schiedsrichterwesen" durch die DV anzunehmen.
+Ich beantrage das Konzept wie auch das dazugehörige "Reglement Schiedsrichterwesen" durch die DV anzunehmen und die folgende Schiedsrichterkomission zu wählen:
+
+- Stefan Schöb (Vorsitzender)
+- Marcel Glaus
+- Filip Kubiatowicz
 
 ## Kosten
 Kosten fallen hauptsächlich für das benötigte Tooling sowie gegebenenfalls unterstützenden Massnahmen zur Sichtbarkeit an Turnieren an.
