@@ -12,7 +12,7 @@ Dieses Konzept versucht sich in sämtlichen Bereichen möglichst an den folgende
 - Qualitativ hochwertige Schiedsrichterausbildung
 - Minimaler zusätzlicher Ressourcenaufwand bei der STF
 
-Es ist nicht möglich, das sämtliche Ideen in diesem Konzept allen diesen Punkten entsprechen (z.B. leidet die Qualität unter dem Ziel vom minimalen Aufwand). Es gilt hier einen möglichst guten Komporomiss zu finden.
+Es ist nicht möglich, das sämtliche Ideen in diesem Konzept allen diesen Punkten entsprechen (z.B. leidet die Qualität unter dem Ziel vom minimalen Aufwand). Es gilt hier einen möglichst guten Kompromiss zu finden.
 
 
 ## Schiedsrichterausbildung
@@ -28,7 +28,7 @@ Gemäss ITSF wird jeder Schiedsrichter gemäss seinem aktuellen Level eingestuft
 | International | ITSF          |
 | World | ITSF          |
 
-Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assitant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. 
+Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assistant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. 
 
 Ab dem Level "International" wird die Zertifizierung sowie die weitere Ausbildung durch den ITSF vorgenommen. 
 
@@ -56,11 +56,11 @@ Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF a
 Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 bis 3 verpflichtend. Die Regelwerke 4-6, welche zusätzliche Disziplinen abbilden, sind aktuell nicht Teil der Ausbildung.
 
 ## Umsetzung
-Um die unter "Ziele" beschriebenen Ziele zu erreichen, müssen Prozesse wie auch Ausbildungsmöglichkeiten geschaffen werden. Zusätzlich wird eine Ressource benötigt, welche sich laufend um die administrativen belangen (z.B. Meldung der Scheidsrichter beim ITSF) wie auch regeltechnischen Aufgaben (z.B. Regelanpassungen durch ITSF) kümmert.
+Um die unter "Ziele" beschriebenen Ziele zu erreichen, müssen Prozesse wie auch Ausbildungsmöglichkeiten geschaffen werden. Zusätzlich wird eine Ressource benötigt, welche sich laufend um die administrativen belangen (z.B. Meldung der Schiedsrichterbeim ITSF) wie auch regeltechnischen Aufgaben (z.B. Regelanpassungen durch ITSF) kümmert.
 
 Weiter muss neben der initialen Ausbildung dafür gesorgt werden, dass die Schiedsrichter auch Jahre nach der initialen Einstufung noch über das Wissen verfügen um korrekt eingestuft zu werden.
 
-Die in diesem Konzept angedachten Ausbildugnsmöglichkeiten, decken den initialen Effort wie auch die fortlaufende Ausbildung der angehenden Schiedsrichter ab.
+Die in diesem Konzept angedachten Ausbildungsmöglichkeiten, decken den initialen Efort wie auch die fortlaufende Ausbildung der angehenden Schiedsrichter ab.
 
 Allgemein besteht die Ausbildung zum Schiedsrichter aus zwei grossen Bereichen:
 
@@ -85,7 +85,7 @@ Eine Einstufung geschieht dabei jeweils am 30.6 sowie am 31.12. Schiedsrichter w
 ### Ausbildungsmöglichkeiten
 
 #### Online
-Die Regelkunde ist ein trokenes Thema. Aktuell umfassen die ITSF-Regeln 53 Seiten, inkl. den Anti-Doping Regeln gar 122. Das Studium wie auch die Überprüfung durch die STF ist mühsam. 
+Die Regelkunde ist ein trockenes Thema. Aktuell umfassen die ITSF-Regeln 53 Seiten, inkl. den Anti-Doping Regeln gar 122. Das Studium wie auch die Überprüfung durch die STF ist mühsam. 
 
 Weiter ist der klassische Weg von "Einmal gelernt und dann die Prüfung abgelegt" keine Nachhaltige Lösung um die Qualität der Schiedsrichter aufrecht zu halten. 
 
@@ -108,12 +108,12 @@ Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er
 > 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
 > 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
 > 4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
-> 5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
+> 5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgelt zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
 
-Um die Hürde für passive Schiedsrichter zu senken, wird an STS-Turnieren der Tisch 3 zum offizillen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit mehr Sichtbarkeit für das Thema Schiedsrichtersausbildung geschaffen). Weiter haben auf diesem Tisch die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu begleiten.
+Um die Hürde für passive Schiedsrichter zu senken, wird an STS-Turnieren der Tisch 3 zum offiziellen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit mehr Sichtbarkeit für das Thema Schiedsrichtersausbildung geschaffen). Weiter haben auf diesem Tisch die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu begleiten.
 
 ##### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
-Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglickeit die Entscheidung des angehenden Schiedsrichters zu überstimmen wie auch ins Spiel einzugreifen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
+Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglichkeitdie Entscheidung des angehenden Schiedsrichters zu überstimmen wie auch ins Spiel einzugreifen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
 
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
 
@@ -132,15 +132,15 @@ Der exakte Inhalt des Workshops wird durch den Workshop-Leiter festgelegt und ge
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
 
 ## Stellen im STF
-Es wird eine Schiedsrichter-Kommission geschaffen, welche durch den "Verantwortlichen Schiedsrichterwesen" geleitet wird. Die Aufgaben der Komission umfassen:
+Es wird eine Schiedsrichter-Kommission geschaffen, welche durch den "Verantwortlichen Schiedsrichterwesen" geleitet wird. Die Aufgaben der Kommission umfassen:
 
 1. Melden der aktuellen Schiedsrichter gemäss dem Tool Micromate an ITSF
 2. Anpassung der Ausbildungsunterlagen bei Anpassungen der Regeln durch den ITSF
 3. Austausch mit dem ITSF zu Schiedsrichter-Themen (z.B. gewünschte Regelanpassungen durch die STF)
-4. Planung von alfälligen Workshops
+4. Planung von allfälligen Workshops
 5. Förderung des Austauschs zwischen den Schiedsrichtern (z.B. eine WhatsApp Gruppe)
 
-Die Schiedsrichter-Komission hat die folgenden Befugnisse:
+Die Schiedsrichter-Kommission hat die folgenden Befugnisse:
 
 - Anpassung des Schiedsrichter-Reglements der STF
 
@@ -157,7 +157,7 @@ Die Ausbildung der Schiedsrichter soll durch die folgenden Mechanismen geförder
 Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwesen umgesetzt/überwacht:
 
 1. Ausbildungstisch an STS Turnieren (inkl. Beschriftung + Fahne oder Ähnlichem)
-2. Eigene Seite auf swisstablesoccer.ch mit sämltichen Informationen zum Schiedsrichterwesen 
+2. Eigene Seite auf swisstablesoccer.ch mit sämtlichen Informationen zum Schiedsrichterwesen 
 3. Kommunikation durch das Social Media Team
 
 ### Einfacher Zugang zur Ausbildung
