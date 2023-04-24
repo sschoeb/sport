@@ -36,3 +36,7 @@ Es wird mit einer einmaligen Investition von ca 300 CHF gerechnet:
 
 ## Zeitplan der Umsetzung
 Die Änderungen treten per 2024 in Kraft.
+
+## Anmerkungen
+ - Der Antragsteller ist Mitinhaber der Firma, welche das Produkt Micromate vertreibt
+ - Die Finanzierung der Ausgaben wird mit dem Antrag "Lenkungsabgabe zur Schiedsrichterausbildung" sichergestellt.
