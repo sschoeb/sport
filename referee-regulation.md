@@ -1,4 +1,4 @@
-# Reglement Schiesdrichterwesen
+# Reglement Schiedsrichterwesen
 
 ## Einführung
 Im Reglement Schiedsrichterwesen werden sämtliche Themen rund um das Schiedsrichterwesen der STF geregelt. 
@@ -15,7 +15,7 @@ Grundsätzlich haben sich die Schiedsrichter an den vom ITSF definierten [Refere
 Weiter gilt für die Ausbildung der Schiedsrichter das Konzept "Ausbildung Schiedsrichter".
 
 ### Bezahlung von Schiedsrichtern
-Der Schiedsrichter wird in jedem Fall mit folgendem Entgeld entlöhnt: 5.- CHF pro Spieler pro Match
+Der Schiedsrichter wird in jedem Fall mit folgendem Entgelt entlöhnt: 5.- CHF pro Spieler pro Match
 
 - Es gibt keine Unterscheidung zwischen Zeit/Hauptschiedsrichter
 - Wird ein Zeit- sowie ein Hauptschiedsrichter benötigt, sind pro Spieler 10.- CHF zu bezahlen
@@ -30,7 +30,7 @@ Grundsätzlich gilt die folgende Regelung:
 Sollte ein Schiedsrichter benötigt werden, jedoch zu diesem Zeitpunkt keiner in der nötigen Stufe verfügbar sein, so gelten die folgenden Regeln:
 
 1. Die Turnierleitung kann einen Unterqualifizierten Schiedsrichter stellen, welcher von beiden Teams akzeptiert werden muss.
-2. Die Turnierleitung gibt den Teams die Möglichkeit, innerhalb von 5 Minuten eine neutrale Person (ohne spezifsiche Ausbildung) aus Schiedsrichter zu definieren.
+2. Die Turnierleitung gibt den Teams die Möglichkeit, innerhalb von 5 Minuten eine neutrale Person (ohne spezifische Ausbildung) aus Schiedsrichter zu definieren.
 
 Sollten beide Varianten nicht möglich sein, muss das Spiel durch die beiden Teams weideraufgenommen werden. Ist dies nicht der Fall, so führt dies dazu, dass das Team, welche das Spiel nicht weiterführen möchte, das Spiel Forfait verliert. Sollten beide Teams nicht weiterspielen wollen, wird das Spiel für beide Teams als Niederlage gewertet.
 
@@ -44,7 +44,7 @@ Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er
 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
 4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
-5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgeld zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
+5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgelt zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
 
 
 #### Schiedsrichter-Coach
@@ -56,13 +56,13 @@ Der aktive Schiedsrichter übernimmt die Leitung des Spiels. Der Schiedsrichter-
 4. Ein Schiedsrichter-Coach muss mindestens die Stufe National haben.
 
 ## Schiedsrichterkommission
-Die Schiedsrichterkomission besteht aus min. drei Personen. Wobei eine Person die Verantwortung inne hat. 
+Die Schiedsrichterkommission besteht aus min. drei Personen. Wobei eine Person die Verantwortung inne hat. 
 
 ### Rechte
-Die Schiedsrichterkomission hat die Kompetenz und den Auftrag, das Reglement Schiedsrichterwesen weiterzuentwickeln. 
+Die Schiedsrichterkommission hat die Kompetenz und den Auftrag, das Reglement Schiedsrichterwesen weiterzuentwickeln. 
 
 ### Pflichten
-Die Schiedsrichterkomission hat gegenüber der STF sowie den Spielern die folgenden Pflichten:
+Die Schiedsrichterkommission hat gegenüber der STF sowie den Spielern die folgenden Pflichten:
 
 - Bereitstellung und Weiterentwicklung der Schiedsrichterausbildung
 - Bereitstellung eines Kontaktpunktes bei Fragen zur Schiedsrichterausbildung
@@ -73,12 +73,12 @@ Die Schiedsrichterkomission hat gegenüber der STF sowie den Spielern die folgen
 Der STF-Vorstand erhält für jede Anpassung, die von der Schiedsrichterkommission zur Umsetzung empfohlen wird ein Veto-Recht. Mit diesem Veto-Recht wird verhindert, dass die Schiedsrichterkommission Anpassungen an Reglementen vornimmt, die nicht der strategischen Ausrichtung des Tischfussball-Verbandes entsprechen. 
 
 ### Auswahl der Schiedsrichterkommission
-Die Schiedsrichterkomission wird durch die Delegiertenversammlung der STF gewählt. 
+Die Schiedsrichterkommission wird durch die Delegiertenversammlung der STF gewählt. 
 
 ### Merkmale der Schiedsrichterkommission
 
 #### Anzahl Mitglieder
-Die Kommission besteht aus mindestens 3 MItgliedern.
+Die Kommission besteht aus mindestens 3 Mitgliedern.
 
 #### Anforderungen an die Mitglieder
 Die Mitglieder sind gewillt, das Schiedsrichterwesen der STF im Sinne der Community weiterzuentwickeln. Sie stimmen den unter dem Punkt "Pflichten" definierten Anforderungen zu.
