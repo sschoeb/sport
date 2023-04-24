@@ -83,7 +83,7 @@ Die Kommission besteht aus mindestens 3 MItgliedern.
 #### Anforderungen an die Mitglieder
 Die Mitglieder sind gewillt, das Schiedsrichterwesen der STF im Sinne der Community weiterzuentwickeln. Sie stimmen den unter dem Punkt "Pflichten" definierten Anforderungen zu.
 
-#### Leitung der Sportkommission
+#### Leitung der Schiedsrichterkommission
 Die Leitung der Schiedsrichterkommission stellt sicher, dass die Meetings organisiert werden und dass die Prozesse eingehalten werden. Die Schiedsrichterkommission wird von einem Vertreter des STF-Vorstands (Ressort Ruling) geleitet. Ist das Amt nicht besetzt, wird die Ressortleitung abwechselnd für den Zeitraum eines Jahres von einem der Mitglieder übernommen.
 
 #### Austritt
