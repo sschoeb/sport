@@ -57,4 +57,6 @@ Um am entsprechenden Stichtag die nötige Auszeichnung zu erhalten, muss du in [
 -  Ich habe die Lernziele erreicht, habe aber noch keine Bestätigung erhalten, was kann ich tun?
   - Du erhälst die Besätigung am nächsten Stichtag. Solltest du eine Woche nach dem Stichtag keine Bestätigung per E-mail erhalten haben, melde dich auf referee@swisstablesoccer.ch  
 -  Kann ich direkt zum National aufsteigen?
-  - Ja  
+  - Ja
+- Ich habe einen Fehler in der Ausbildung gefunden, wo kann ich mich melden?
+  - Melde dich auf referee@swisstablesoccer.ch
