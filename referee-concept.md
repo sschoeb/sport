@@ -159,9 +159,16 @@ Die folgenden Massnahmen werden durch den Verantwortlichen im Schiedsrichterwese
 Jeder Spieler kann sich für die Ausbildung anmelden. Sämtliche Informationen dazu sind auf der dafür eingerichteten Seite auf swisstablesoccer.ch verfügbar. Auch Spieler die sich nicht aktiv zum Schiedsrichter ausbilden möchten, können das Online-Tool verwenden um die Regelkenntnisse zu vertiefen.
 
 ### Finanzielle Anreize
-Die STF hat die Möglichkeit, die Schiedsrichterausbildung für Spieler wie auch deren Vereine anhand von Anpassungen der Jahreslizenzen für Vereine resp. Spieler attraktiver zu machen. 
+Die Schaffung von finanziellen Anreizen wird von der Sportkomission als essentieller Pfeiler in der Förderung der Schiedsrichterausbildung angesehen. Dies soll in Form von zwei Punkten erfolgen:
+- Lenkungsabgabe
+- Entlöhnung für Schiedsrichter
 
-Um dies umsetzen zu können, sind Anpassungen am Lizenzwesen nötig, was den Rahmen von diesem Konzept sprengen würde.
+#### Lenkungsabgaben
+Lenkungsabgaben sind eine motivierende Abgabe welche durch alle nicht ausgebildeten Schiedsrichter getätigt werden muss. Durch die Lenkungsabgabe sollen die Spieler motiviert werden, die Schiedsrichterausbildung abzuschliessen. Die Lenkungsabgabe selbst ist im [Reglement Lenkungsabgabe Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/pricing.md) definiert.
+
+#### Entlöhnung für Schiedsrichter
+Die Entlöhung der Schiedsrichter motiviert die am Turnier verfügbaren Schiedsrichter, dass ihr Einsatz an Turnieren zumindest mit einem kleinen Entgeld entschädigt wird. Die exakte höhe der Entschädigung ist im Dokument [Reglement Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-regulation.md) geregelt.
+Die Entlöhung ist (sofern nicht von der Turnierleitung anders bestimmt) in jedem Fall durch die Spieler vo dem Spiel zu begleichen.
 
 ### Verständnis für "Anti-Referee-Hate-Rules" schaffen
 Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
