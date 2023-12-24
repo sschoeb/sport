@@ -11,9 +11,17 @@ Die Schiedsrichterkommission ist befähigt, die folgenden Dokumente weiterzuentw
 
 - Ethik
 - Sport (Modus, Turnierorganisation, ...)
-
+- 
 ## Ziele Schiedsrichterkomission
 Die Schiedsrichterkomission hat zum Ziel, di im [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md) festgehaltenen Ziele zu verfolgen.
+
+### Unsere Aufgaben
+Um die Ziele der Schiedsrichterkomission zu erreichen, umfassen die Aufgaben der Komission die folgende, nicht abschliessende, Liste an Aufgaben:
+1. Melden der aktuellen Schiedsrichter gemäss dem Tool Micromate an ITSF
+2. Anpassung der Ausbildungsunterlagen bei Anpassungen der Regeln durch den ITSF
+3. Austausch mit dem ITSF zu Schiedsrichter-Themen (z.B. gewünschte Regelanpassungen durch die STF)
+4. Planung von allfälligen Workshops
+5. Förderung des Austauschs zwischen den Schiedsrichtern (z.B. eine WhatsApp Gruppe)
 
 ## Änderung einbringen
 Du hast eine Idee wie man den Prozess der Schiedsrichterausbildung verbessern kann? Wir freuen uns über dein Feedback per E-Mail auf referee@swisstablesoccer.ch
