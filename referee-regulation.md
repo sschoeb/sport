@@ -91,3 +91,23 @@ Die Mitglieder der Schiedsrichterkommission kommunizieren ihren Austritt frühze
 
 ### Wahl der Schiedsrichterkommission
 Die Schiedsrichterkommission wird durch den Vorstand STF für eine Amtsdauer von 2 Jahren gewählt. Die Amtsperiode entspricht der Amtsperiode des Vorstandes. Eine Wiederwahl ist möglich. Eine maximale Amtsdauer ist nicht definiert. 
+
+# Anti-Hate Rule
+Ein grosses Problem im Schiedsrichterwesen sind sogenannte "Hate-Speeches" direkt gegenüber Schiedsrichtern oder im Hintergrund über bestehende Schiedsrichter. Beispiele einer solchen "Hate-Speech" könnten Aussagen sein wie:
+
+- Der Schiedsrichter XXX hat mein Spiel absolut verpfiffen
+- Mit dem Entscheid XXX hat der Schiedsrichter das Spiel versaut und darum habe ich verloren
+- XXX ist der mit Abstand schlechteste Schiedsrichter den es gibt
+- XXX ist unfähig
+
+Die obigen Aussagen mögen teils harmlos klingen, doch sind dies in jedem Fall direkte angriffe auf den entsprechenden Schiedsrichter und somit immerunangebracht. Falls es Probleme mit einem Schiedsrichter gab, kann dies jederzeit über unserern Feedbackprozess bearbeitet werden.
+
+## Meldung
+Jegliche Hate-Speeches welche an einem Turnier getätigt werden, führen automatisch direkt zu einer Warnung am Turnier. Alle an einem Turnier anwesenden Personen sind angehalten, fehlbares Verhalten sofort der Turnierleitung zu melden. Sollte eine Hate-Speech ausserhalb des aktiven Turnierbetriebs beobachtet werden, TODO Prozess dazu? hmm? 
+
+Fragestellungen:
+
+- was machen wir bei hates nach einem Turnier? warning nützt da nichts?
+- was machen wir allgemein bei hates im turnier? gelbe karte?
+- Was machen wir allgemein bei hates zwischen Turnieren (wenn ichz.B. im TFCZ sage XXX ist der schlechteste Schiri ever...")
+
