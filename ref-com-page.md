@@ -21,7 +21,7 @@ Wichtig: Das ist nicht die richtige Anlaufstelle bei Fragen zu Regeln oder Rück
 
 ## Schiedsrichterausbildung
 Die Schiedsrichterausbildung verläuft gemäss dem [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md).
-Falls du selbst die Ausbildung als Schiedsrichter antreten möchtest, findest du hier weitere Informationen dazu.
+Falls du selbst die Ausbildung als Schiedsrichter antreten möchtest, findest du [hier](https://github.com/sschoeb/sport/blob/main/ref-become.md) weitere Informationen dazu.
 
 ## Feedback an unsere Schiedsrichter
 Das Amt des Schiedsrichters an einem Tisch ist keine einfache Aufgabe. Dass bei Entscheidungen welche Aktionen bewerten welche innerhalb von Sekundenbruchteilen ausgeführt wurden durchaus auch Fehler passieren können, liegt in der Natur der Sache.
