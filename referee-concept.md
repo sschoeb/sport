@@ -56,14 +56,13 @@ Bestehende Schiedsrichter behalten ihren Rang für eine Schonfrist von einem Jah
 ### Regelwerke
 Sämtliche Schiedsrichter werden gemäss den aktuell gültigen Regeln der ITSF ausgebildet. Dies entspricht den folgenden Dokumenten:
 
-1. [Standard Matchplay Rules](https://www.tablesoccer.org/rules/documents/GBR-2022%20ITSF%20Standard%20Matchplay%20Rules_def.pdf)
-2. [Legacy Rules 2016](https://www.tablesoccer.org/rules/documents/2016_Rulebook.pdf)
-3. [Referee Code](https://www.tablesoccer.org/itsf/documents/GBR%20-%20ITSF%20REFEREE%20CODE.pdf)
-4. [Classic Rules](http://www.tablesoccer.org/rules/documents/2015_Speedball_Rules_and_Classic.pdf)
-5. [2 Leg Rules](http://www.tablesoccer.org/rules/documents/2018%20ITSF%20Rule%20Book%202P%20English.pdf)
-6. [Rollerball Rules](https://www.tablesoccer.org/rules/documents/ITSF%202018%20Rollerball%20Rules.pdf)
+1. [Standard Matchplay Rules 2.0](https://docs.google.com/document/d/1NiW_FT-bQmIworptXmahU4lKoH46V5EW4njr0oPjm28)
+2. [Referee Code](https://www.tablesoccer.org/itsf/documents/GBR%20-%20ITSF%20REFEREE%20CODE.pdf)
+3. [Classic Rules](http://www.tablesoccer.org/rules/documents/2015_Speedball_Rules_and_Classic.pdf)
+4. [2 Leg Rules](http://www.tablesoccer.org/rules/documents/2018%20ITSF%20Rule%20Book%202P%20English.pdf)
+5. [Rollerball Rules](https://www.tablesoccer.org/rules/documents/ITSF%202018%20Rollerball%20Rules.pdf)
 
-Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 bis 3 verpflichtend. Die Regelwerke 4-6, welche zusätzliche Disziplinen abbilden, sind aktuell nicht Teil der Ausbildung.
+Für die Ausbildung im Rahmen der STF sind die Regelwerke 1 und 2 verpflichtend. Die Regelwerke 3.5, welche zusätzliche Disziplinen abbilden, sind aktuell nicht Teil der Ausbildung.
 
 ## Umsetzung
 Um die unter "Ziele" beschriebenen Ziele zu erreichen, müssen Prozesse wie auch Ausbildungsmöglichkeiten geschaffen werden. Zusätzlich wird eine Ressource benötigt, welche sich laufend um die administrativen belangen (z.B. Meldung der Schiedsrichterbeim ITSF) wie auch regeltechnischen Aufgaben (z.B. Regelanpassungen durch ITSF) kümmert.
@@ -140,20 +139,6 @@ Um die praktische Ausbildung der Schiedsrichter weiter zu stärken, wird ein jä
 Der exakte Inhalt des Workshops wird durch den Workshop-Leiter festgelegt und geplant.
 
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form eines Workshop-Leiters/Ausbildners. Diese Ressource ist aktuell nicht vorhanden.
-
-## Stellen im STF
-Es wird eine Schiedsrichter-Kommission geschaffen, welche durch den "Verantwortlichen Schiedsrichterwesen" geleitet wird. Die Aufgaben der Kommission umfassen:
-
-1. Melden der aktuellen Schiedsrichter gemäss dem Tool Micromate an ITSF
-2. Anpassung der Ausbildungsunterlagen bei Anpassungen der Regeln durch den ITSF
-3. Austausch mit dem ITSF zu Schiedsrichter-Themen (z.B. gewünschte Regelanpassungen durch die STF)
-4. Planung von allfälligen Workshops
-5. Förderung des Austauschs zwischen den Schiedsrichtern (z.B. eine WhatsApp Gruppe)
-
-Die Schiedsrichter-Kommission hat die folgenden Befugnisse:
-
-- Anpassung des Schiedsrichter-Reglements der STF
-
 
 ## Förderung der Ausbildung 
 Die Ausbildung der Schiedsrichter soll durch die folgenden Mechanismen gefördert werden:
