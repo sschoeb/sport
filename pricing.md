@@ -1,10 +1,4 @@
-# Finanzielle Anreize Schiedsrichterwesen
-
-Gemäss dem [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md) ist ein esesntieller Bestandteil zur Förderung der Schiedsrichter die Schaffung von finanziellen Anreizen. Dies soll in Form von zwei Punkten erfolgen:
-- Lenkungsabgabe
-- Entlöhnung für Schiedsrichter
-
-# Leknungsabgaben
+# Reglement Lenkungsabgabe Schiedsrichterwesen
 Durch eine Einführung einer Lenkungsabgabe kann die breite Masse motiviert werden, sich der Schiedsrichterausbildung anzunehmen. Die Annahme ist dabei, dass durch den finanziellen Anreiz ein grosser Teil der Spieler die Grundausbildung absolivert und somit während Turnieren zumindest die theoretischen Anforderungen mitbringt um als Schiedsrichter einspringen zu können.
 
 ## Definition
