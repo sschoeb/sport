@@ -28,12 +28,22 @@ Gemäss ITSF wird jeder Schiedsrichter gemäss seinem aktuellen Level eingestuft
 | International | ITSF          |
 | World | ITSF          |
 
-Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assistant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. 
+Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assistant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. Die STF verwendet in der eigenen Ausbildung nur die Stufen Assistant und National. Die Stufe "Regional" wird nicht verwendet.
 
 Ab dem Level "International" wird die Zertifizierung sowie die weitere Ausbildung durch den ITSF vorgenommen. 
 
-### Ausbildungsweg
+#### Einstufung Assistant
+Mit der Einstufung als Assistant erhält der Schiedsrichter:
+- Die Möglichkeit, Spiele als Zeitschiedsrichter zu pfeifen
+- Die Möglichkeit an Turnieren als passiver Schiedsrichter zu pfeifen
+- Die Möglichkeit an Turnieren zusammen mit einem Schiedsrichter-Coach ein Spiel aktiv zu leiten
 
+#### Einstufung National
+Mit der Einstufung als National erhält der Schiedsrichter:
+- Die Möglichkeit an Turnieren Spiele als Zeitschiedsrichter oder Hauptschiedsrichter eigenständig aktiv zu leiten
+- Befreiung von der Lenkungsabgabe für die nächste Saison
+
+### Ausbildungsweg
 Gemäss der im Kapitel "Einstufung und Zuständigkeit" aufgeführten Zuständigkeit, startet die Ausbildung eines Schiedsrichters in jedem Fall bei der STF. Nach einer Grundausbildung im STF hat der Schiedsrichter die Möglichkeit einen Antrag beim ITSF zu stellen, um zum "International*" befördert zu werde. Da der weitere Weg durch den ITSF bestimmt ist, wird in diesem Dokument nicht weiter auf die Ausbildung nach der Stufe "National" eingegangen. 
 
 #### Anerkennung früherer Ausbildung
@@ -75,7 +85,7 @@ Für die praktische Erfahrung sind die Schiedsrichter indes selbst verantwortlic
 1. Spieler meldet sich beim STF, dass er sich zum Schiedsrichter ausbilden lassen möchte
 2. Spieler erhält einen Account im online Ausbildungstool und kann sofort mit dem lernen der Regelgrundlagen beginnen
 3. Sobald der angehende Schiedsrichter ein minimales Level(60%) erreicht hat, wird er zum Assistant-Referee befördert und somit auch zur "Ausbildung an Turnieren" zugelassen.
-4.  Sobald der angehende Schiedsrichter das Level von 90% erreicht hat, wird er automatisch zum "National" Schiedsrichter befördert.
+4. Sobald der angehende Schiedsrichter das Level von 90% erreicht hat, wird er automatisch zum "National" Schiedsrichter befördert.
 
 ### Prüfung
 Der angehende Schiedsrichter muss im Tool das nötige Wissen aufzeigen. Eine effektive Prüfung ist dabei nicht vorgesehen. Hat ein Schiedsrichter das nötige Level erreicht wird er automatisch als Assistant- resp. National-Schiedsrichter anerkannt.
