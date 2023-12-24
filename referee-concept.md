@@ -111,27 +111,16 @@ Um die Anwendung der gelernten Regeln optimal kennenzulernen, ist eine praktisch
 > Anmerkung: Aufgrund der Tatsache, dass zum Zeitpunkt der Erstellung von diesem Konzept praktisch keine Schiedsrichter vorhanden sind, ist Variante zwei sehr schwierig umzusetzen.
 
 ##### Passiver Schiedsrichter
-Ein passiver Schiedsrichter nimmt im Spiel keine aktive Rolle ein. Das heisst er greift nur auf Verlangen eines Teams/Spielers ein. Das Schiedsrichter-Reglement wird somit mit einem Schiedsrichter-Typ "Passiver Schiedsrichter" erweitert, in welchem die folgenden Regeln definiert werden:
-
-> 1. Falls ein Schiedsrichter benötigt wird, können sich beide Teams auf einen passiven Schiedsrichter einigen. Dazu müssen beide Teams einverstanden sein.
-> 2. Jedes Team hat bei einer streitigen Situation die Möglichkeit den passiven Schiedsrichter um eine Entscheidung zu fragen.
-> 3. Die Entscheidung des passiven Schiedsrichters ist verpflichtend und kann von keinem Team hinterfragt werden.
-> 4. Möchte ein Team einen passiven Schiedsrichter beiziehen, entspricht der zu bezahlende Betrag dem Betrag, welcher an einen aktiven Schiedsrichter zu bezahlen wäre.
-> 5. Ein passiver Schiedsrichter kann ohne Anfrage eines Teams ein Spiel übernehmen. In diesem Fall ist kein Entgelt zu bezahlen. Die Teams können in diesem Fall den Schiedsrichter ablehnen. Weiter ist es möglich, dass ein freiwilliger Schiedsrichter aufgrund von eigener Spielaktivität das Spiel mittendrin verlassen kann.
+Der passive Schiedsrichter ist im [Reglement Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-regulation.md#passiver-schiedsrichter) definiert.
 
 Um die Hürde für passive Schiedsrichter zu senken, wird an STS-Turnieren der Tisch 3 zum offiziellen "Ausbildungstisch" ernannt. Dieser Tisch wird entsprechend gekennzeichnet (und somit mehr Sichtbarkeit für das Thema Schiedsrichtersausbildung geschaffen). Weiter haben auf diesem Tisch die angehenden Schiedsrichter die Möglichkeit, Spiele ohne Wunsch der Spieler als passive Schiedsrichter zu begleiten.
 
 ##### Schiedsrichter unter Beobachtung von Schiedsrichter Coach
+Der Schiedsrichter-Coach ist im [Reglement Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-regulation.md#schiedsrichter-coach) definiert.
+
 Der angehende Schiedsrichter übernimmt die Leitung des Spiels als aktiver Schiedsrichter. Der Coach ist gleichzeitig mit am Tisch und hat jederzeit die Möglichkeitdie Entscheidung des angehenden Schiedsrichters zu überstimmen wie auch ins Spiel einzugreifen. Weiter hat der angehende Schiedsrichter jederzeit die Möglichkeit, mit dem Coach Rücksprache zu halten.
 
 > Anmerkung: Diese Form der Ausbildung benötigt zusätzliche Ressourcen in Form von Schiedsrichter-Coaches. Diese Ressource ist aktuell sehr begrenzt!
-
-Das Schiedsrichter-Reglement wird mit einem Schiedsrichter-Typ "Schiedsrichter-Coach" erweitert, in welchem die folgenden Regeln definiert werden:
-
-> 1. Sollte ein Schiedsrichter Coach zusätzlich zum Schiedsrichter am Tisch stehen, kann dieser die Entscheidungen des Schiedsrichters überstimmen.
-> 2. Entscheidungen des Coaches können weder von einem Team noch vom aktiven Schiedsrichter überstimmt werden und sind endgültig.
-> 3. Der Schiedsrichter-Coach kann durch die die Teams nicht abgelehnt werden. 
-> 4. Ein Schiedsrichter-Coach muss mindestens die Stufe National haben.
 
 #### Workshop
 Um die praktische Ausbildung der Schiedsrichter weiter zu stärken, wird ein jährlicher Workshop angeboten. In den Workshops werden Spielsituationen nachgestellt und besprochen. Somit kann unter allen anwesenden Schiedsrichtern ein besseres Verständnis für die Regeln und deren Auslegung am Tisch geschaffen werden.
