@@ -1,4 +1,4 @@
-#Schiedsrichter werden
+# Schiedsrichter werden
 Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildung der Swiss Tablesoccer Federation anzutreten. Der gesamte Ablauf ist im [Konzept Schiedsrichterwesen](github.com/sschoeb/sport/blob/main/referee-concept.md) definiert.
 
 Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
@@ -52,4 +52,9 @@ Um am entsprechenden Stichtag die nötige Auszeichnung zu erhalten, muss du in [
   - Deinen persönlichen Lernfortschritt kannst du jederzeit im Tab [Lernfortschritt](https://learn.micromate.ai/learn/lernfortschritt) bei Micromate einsehen.
 - Wäre eine geführe praktische Ausbildung nicht sinvoller? z.B. mit Workshops, Regeldiskussionen, etc.
   - Wir sind überzeugt, dass eine geführte praktische Ausbildung die Qualität noch weiter verbessern würde. Leider ist es aufgrund der aktuellen Ressourcensituation nicht möglich, dieses Angebot anzubieten.
--  
+-  Mein Zugang auf Micromate funktioniert nicht, was kann ich tun?
+  - Melde dich über referee@swisstablesoccer.ch bei uns. 
+-  Ich habe die Lernziele erreicht, habe aber noch keine Bestätigung erhalten, was kann ich tun?
+  - Du erhälst die Besätigung am nächsten Stichtag. Solltest du eine Woche nach dem Stichtag keine Bestätigung per E-mail erhalten haben, melde dich auf referee@swisstablesoccer.ch  
+-  Kann ich direkt zum National aufsteigen?
+  - Ja  
