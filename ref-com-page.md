@@ -5,7 +5,7 @@ Die Schiedsrichterkommission wird von der Delegiertenversammlung gewählt. Alle 
 Die Schiedsrichterkommission ist befähigt, die folgenden Dokumente weiterzuentwickeln: 
 
 - Reglement Schiedsrichterwesen
-- [https://github.com/sschoeb/sport/blob/main/referee-concept.md](Konzept Schiedsrichterwesen)
+- [Konzept Schiedsrichterwesen)[https://github.com/sschoeb/sport/blob/main/referee-concept.md]
 
 ## Ausserhalb unserer Kompetenzen
 
