@@ -84,8 +84,8 @@ Für die praktische Erfahrung sind die Schiedsrichter indes selbst verantwortlic
 ### Ablauf der Ausbildung
 1. Spieler meldet sich beim STF, dass er sich zum Schiedsrichter ausbilden lassen möchte
 2. Spieler erhält einen Account im online Ausbildungstool und kann sofort mit dem lernen der Regelgrundlagen beginnen
-3. Sobald der angehende Schiedsrichter ein minimales Level(60%) erreicht hat, wird er zum Assistant-Referee befördert und somit auch zur "Ausbildung an Turnieren" zugelassen.
-4. Sobald der angehende Schiedsrichter das Level von 90% erreicht hat, wird er automatisch zum "National" Schiedsrichter befördert.
+3. Sobald der angehende Schiedsrichter das Assistant-Lernziel erreicht hat, wird er zum Assistant-Referee befördert und somit auch zur "Ausbildung an Turnieren" zugelassen.
+4. Sobald der angehende Schiedsrichter das National-Lernziel erreicht hat, wird er automatisch zum "National" Schiedsrichter befördert.
 
 ### Prüfung
 Der angehende Schiedsrichter muss im Tool das nötige Wissen aufzeigen. Eine effektive Prüfung ist dabei nicht vorgesehen. Hat ein Schiedsrichter das nötige Level erreicht wird er automatisch als Assistant- resp. National-Schiedsrichter anerkannt.
