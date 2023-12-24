@@ -13,14 +13,14 @@ Die Schiedsrichterkommission ist befähigt, die folgenden Dokumente weiterzuentw
 - Sport (Modus, Turnierorganisation, ...)
 
 ## Ziele Schiedsrichterkomission
-Die Schiedsrichterkomission hat zum Ziel, di im Konzept "Schiedsrichterwesen" festgehaltenen Ziele zu verfolgen.
+Die Schiedsrichterkomission hat zum Ziel, di im [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md) festgehaltenen Ziele zu verfolgen.
 
 ## Änderung einbringen
 Du hast eine Idee wie man den Prozess der Schiedsrichterausbildung verbessern kann? Wir freuen uns über dein Feedback per E-Mail auf referee@swisstablesoccer.ch
 Wichtig: Das ist nicht die richtige Anlaufstelle bei Fragen zu Regeln oder Rückmeldungen zu einem Schiedsrichter. Informationen dazu findest du unter "Feedback an unsere Schiedsrichter".
 
 ## Schiedsrichterausbildung
-Die Schiedsrichterausbildung verläuft gemäss dem Konzept "Schiedsrichterausbildung".
+Die Schiedsrichterausbildung verläuft gemäss dem [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md).
 Falls du selbst die Ausbildung als Schiedsrichter antreten möchtest, findest du hier weitere Informationen dazu.
 
 ## Feedback an unsere Schiedsrichter
