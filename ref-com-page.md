@@ -6,6 +6,7 @@ Die Schiedsrichterkommission ist befähigt, die folgenden Dokumente weiterzuentw
 
 - [Reglement Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-regulation.md)
 - [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md)
+- [Reglement Lenkungsabgabe](https://github.com/sschoeb/sport/blob/main/pricing.md)
 
 ## Ausserhalb unserer Kompetenzen
 
