@@ -2,9 +2,10 @@
 Die Schiedsrichterkommission wird von der Delegiertenversammlung gewählt. Alle STF-Mitgliedvereine befähigen somit die Schiedsrichterkommission, das Schiedsrichterwesen in der Schweiz weiterzuentwickeln. Die Mitglieder der Schiedsrichterkommission findet ihr hier. 
 
 ## Unsere Kompetenzen
-Die Schiedsrichterkommission ist befähigt, die folgenden Reglemente weiterzuentwickeln: 
+Die Schiedsrichterkommission ist befähigt, die folgenden Dokumente weiterzuentwickeln: 
 
 - Reglement Schiedsrichterwesen
+- [https://github.com/sschoeb/sport/blob/main/referee-concept.md](Konzept Schiedsrichterwesen)
 
 ## Ausserhalb unserer Kompetenzen
 
