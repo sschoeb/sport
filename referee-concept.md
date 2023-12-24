@@ -173,6 +173,7 @@ Die Entlöhung ist (sofern nicht von der Turnierleitung anders bestimmt) in jede
 ### Verständnis für "Anti-Referee-Hate-Rules" schaffen
 Häufig sind die Schiedsrichter im Kreuzfeuer der Teams. Feedback ist dabei grundsätzlich erwünscht. Sobald es jedoch zu unsportlichen Situationen kommen sollte (z.B. Beleidigung des Schiedsrichters), sind die verfügbaren Mittel durch sämtliche Anwesenden Personen sofort anzuwenden.
 
+Die Abläufe zur Anti-Hate-Rule sind im [Reglement Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-regulation.md#anti-hate-rule) geregelt.
 
 ## Das Learning-Tool: Micromate
 Micromate funktioniert als eine Art online Lern- und Prüfungstool. Dabei kann sich der angehende Schiedsrichter laufend den Fragen von Micromate stellen. Basierend auf den Antworten erkennt Micromate den Ausbildungsstand des Schiedsrichters und bestimmt ob das nötige Wissen vorhanden ist. 
