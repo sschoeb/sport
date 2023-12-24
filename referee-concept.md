@@ -30,7 +30,7 @@ Gemäss ITSF wird jeder Schiedsrichter gemäss seinem aktuellen Level eingestuft
 
 Je nach Stufe ist die STF oder der ITSF zuständig für die Einstufung. D.h. für die Stufen Assistant, Regional und National hat die STF die Verantwortung, die Ausbildung der Schiedsrichter durchzuführen und die Schiedsrichter gemäss ihrer aktuellen Level an den ITSF zu melden. Die STF verwendet in der eigenen Ausbildung nur die Stufen Assistant und National. Die Stufe "Regional" wird nicht verwendet.
 
-Ab dem Level "International" wird die Zertifizierung sowie die weitere Ausbildung durch den ITSF vorgenommen. 
+Ab dem Level "International" wird die Zertifizierung sowie die weitere Ausbildung durch den ITSF vorgenommen. Wird ein Schiedsrichter durch die ITSF als Continental oder höher eingestuft, verlässt der Schiedsrichter die nationale Ausbildung. D.h. die jährliche Ausbildung über Micromate sowie die daran hängende Lenkungsabgabe entfallen ab dieser Stufe.
 
 #### Einstufung Assistant
 Mit der Einstufung als Assistant erhält der Schiedsrichter:
