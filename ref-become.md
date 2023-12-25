@@ -6,8 +6,8 @@ Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
 1. Du meldest dich per E-Mail bei referee@swisstablesoccer.ch
 2. Du erhälst spätestens 7 Tage später eine Einladung per Mail für unser Ausbildungstool Micromate
 3. Melde dich bei [Micromate](https://learn.micromate.ai) an und starte mit der Ausbildung
-4. Sobald du die Lernziele für Assistant erreicht hast, wirst du automatisch zum Assistant-Referee ernannt.
-5. Sobald du die Lernziele für National erreicht hast, wirst du automatisch zum National-Referee ernannt.
+4. Sobald du die Lernziele für Assistant erreicht hast, wirst du automatisch beim nächsten Stichtag zum Assistant-Referee ernannt.
+5. Sobald du die Lernziele für National erreicht hast, wirst du automatisch beim nächsten Stichtag zum National-Referee ernannt.
 
 ## Lernziele
 Je nach Stufe die du erreichen möchtest, musst du unterschiedliche Lerneinheiten mit Micromate durcharbeiten. 
