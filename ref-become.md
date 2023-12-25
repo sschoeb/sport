@@ -1,5 +1,5 @@
 # Schiedsrichter werden
-Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildung der Swiss Tablesoccer Federation anzutreten. Der gesamte Ablauf ist im [Konzept Schiedsrichterwesen](github.com/sschoeb/sport/blob/main/referee-concept.md) definiert.
+Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildung der Swiss Tablesoccer Federation anzutreten. Der gesamte Ablauf ist im [Konzept Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-concept.md) definiert.
 
 Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
 
