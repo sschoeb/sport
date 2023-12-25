@@ -4,7 +4,7 @@
 Im Reglement Schiedsrichterwesen werden sämtliche Themen rund um das Schiedsrichterwesen der STF geregelt. 
 
 ### Abgrenzung
-In diesem Dokument regelt das Schiedsrichterwesen der Swiss Tablesoccer Federation. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Konzept.
+In diesem Dokument regelt das Schiedsrichterwesen der Swiss Tablesoccer Federation. Einzelne Regeln sind in den entsprechenden Dokumenten der ITSF resp. der STF definiert und sind nicht bestand von diesem Reglement.
 
 ## Schiedsrichterwesen
 Die STF ist gemäss der Definition vom ITSF für die Ausbildung der Schiedsrichter bis und mit der Stufe National verantwortlich. 
