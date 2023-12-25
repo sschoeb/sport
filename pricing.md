@@ -16,6 +16,3 @@ Ausländische Spieler bezahlen an STS Turnieren jeweils eine "Administrations Ge
 
 Ausgenommen sind ausländische Spieler, welche einen anerkannten "National" Status des ITSF aufweisen können. Der Status muss auf der ITSF Webseite vorgezeigt werden können. Der Spieler ist in diesem Fall in der Veranwtortung gegenüber dem Turnierveranstalter dies unaufgefordert vor der Bezahlung vorzuweisen. Eine spätere Rücküberweistung ist ausgeschlossen.
 
-# Enlöhnung für Schiedsrichter
-Die Entlöhung der Schiedsrichter motiviert die am Turnier verfügbaren Schiedsrichter, dass ihr Einsatz an Turnieren zumindest mit einem kleinen Entgeld entschädigt wird. Die exakte höhe der Entschädigung ist im Dokument [Reglement Schiedsrichterwesen](https://github.com/sschoeb/sport/blob/main/referee-regulation.md) geregelt.
-Die Entlöhung ist (sofern nicht von der Turnierleitung anders bestimmt) in jedem Fall durch die Spieler vo dem Spiel zu begleichen.
