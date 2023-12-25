@@ -4,9 +4,11 @@
 
 1. Schiedsrichter meldet sich per E-Mail auf referee@swisstablesoccer.ch
 2. Schiedsrichterkomission prüft und aktualisiert Namen/E-Mail im Sportmanager
-3. Schiedsrichterkomission aktiviert im Sportmanager das Feld "Schiedsrichterausbildung aktiv"
+3. Schiedsrichterkomission aktiviert im in Micromate den Account für den Schiedsrichter 
 4. Der Schiedsrichter erhält automatisch eine Einladung zum Ausbildungstool Micromate
 5. Bestätigung durch Schiedsrichterkomission per E-Mail an anfragenden Spieler mit Verweis auf Webseite "Schiedsrichter werden"
+
+Note: Mit Coral könnten Schiedsrichter direkt im Coral gemanaged werden und die Kommunikation zu Micromate erfolgt über Schnittstellen.
 
 ## Stichtag 30.06. / 31.06
 
