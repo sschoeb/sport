@@ -4,7 +4,7 @@ Durch eine Einführung einer Lenkungsabgabe kann die breite Masse motiviert werd
 ## Definition
 Die Lenkungsabgabe wird zusammen mit der Jahres resp. der Tageslizenz an STS Turnieren eingezogen. Auf die Tageslizenzen an Regio-Turnieren hat die Abgabe keinen Einfluss. Die Lenkungsabgabe umfasst die folgenden Beträge:
 
-- Jahreslizenzinhaber: 30.- CHF
+- Jahreslizenzinhaber: 20.- CHF
 - Tageslizenz: 5.- CHF
 
 Sämtliche Spieler welche von der Schiedsrichterkomission im Vorjahr die Lernziel Anforderungen zum National erreicht haben, werden im Folgejahr von der Lenkungsabgabe befreit. 
