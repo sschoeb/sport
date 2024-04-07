@@ -3,8 +3,8 @@ Es freut uns sehr, dass du dich dafür interessierst, die Schiedsrichterausbildu
 
 Kurz zusammengefasst läuft die Ausbildung wie folgt ab:
 
-1. Du meldest dich per E-Mail bei referee@swisstablesoccer.ch
-2. Du erhälst spätestens 7 Tage später eine Einladung per Mail für unser Ausbildungstool Micromate
+1. Öffne die Seite [Anmeldung Schiedsrichterausbildung](https://register.swisstablesoccer.ch/referee) und klicke auf den Button "Ich möchte Schiedsrichter werden"
+2. Du erhälst eine E-Mail mit einem Link über welchen du deine Anmeldung bei Micromate vervollständigen kannst.
 3. Melde dich bei [Micromate](https://learn.micromate.ai) an und starte mit der Ausbildung
 4. Sobald du die Lernziele für Assistant erreicht hast, wirst du automatisch beim nächsten Stichtag zum Assistant-Referee ernannt.
 5. Sobald du die Lernziele für National erreicht hast, wirst du automatisch beim nächsten Stichtag zum National-Referee ernannt.
