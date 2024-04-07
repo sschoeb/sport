@@ -14,5 +14,5 @@ Rookies sind von der Lenkungsabgabe ausgenommen.
 ## Ausnahmefall ausländische Spieler
 Ausländische Spieler bezahlen an STS Turnieren jeweils eine "Administrations Gebühr" von 15 CHF.- erhoben. Zu diesem Betrag wird ebenfalls eine zusätzliche Lenkungsabgabe von 5.- CHF fällig.
 
-Ausgenommen sind ausländische Spieler, welche einen anerkannten "National" Status des ITSF aufweisen können. Der Status muss auf der ITSF Webseite vorgezeigt werden können. Der Spieler ist in diesem Fall in der Veranwtortung gegenüber dem Turnierveranstalter dies unaufgefordert vor der Bezahlung vorzuweisen. Eine spätere Rücküberweistung ist ausgeschlossen.
+Ausgenommen sind ausländische Spieler, welche einen anerkannten "National" Status des ITSF aufweisen können. Der Status muss auf der ITSF Webseite vorgezeigt werden können. Der Spieler ist in diesem Fall in der Verantwortung gegenüber dem Turnierveranstalter dies unaufgefordert vor der Bezahlung vorzuweisen. Eine spätere Rücküberweistung ist ausgeschlossen.
 
